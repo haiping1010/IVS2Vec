@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.1034
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0557
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5103
+HEADER 5  - Mean B-factor of pocket residues  : 0.3962
+HEADER 6  - Hydrophobicity Score              : 9.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.8707
+HEADER 10  -Pocket volume (convex hull)       : 4.6112
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3414   NZ LYS B 492      87.565  47.275  69.662  0.83  3.28           N 0
+ATOM   2006  CG1 VAL B 316      90.364  40.284  68.194  0.00  0.00           C 0
+ATOM   2007  CG2 VAL B 316      91.794  41.548  69.739  0.00  0.00           C 0
+ATOM   3392  CD2 LEU B 489      88.667  42.268  72.271  0.00  0.00           C 0
+ATOM   2005   CB VAL B 316      91.619  41.127  68.326  0.00  0.00           C 0
+ATOM   3018   CG GLU B 443      87.011  39.826  69.921  0.00  0.00           C 0
+ATOM   3021  OE2 GLU B 443      85.165  39.566  68.450  0.75  8.57           O 0
+ATOM   1983  OD2 ASP B 313      90.835  47.560  68.739  0.57  4.29           O 0
+ATOM   1977   CA ASP B 313      93.216  45.536  67.933  0.00  0.00           C 0
+ATOM   1979    O ASP B 313      93.175  43.964  66.121  0.00  0.00           O 0
+ATOM   1980   CB ASP B 313      92.709  46.874  67.419  0.00  0.00           C 0
+ATOM   2013   OG SER B 317      91.745  42.604  63.346  0.68  7.50           O 0
+ATOM   3381  ND1 HIS B 488      91.190  46.533  73.071  0.69  1.09           N 0
+TER
+END

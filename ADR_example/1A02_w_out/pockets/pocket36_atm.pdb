@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.1107
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9651
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5477
+HEADER 5  - Mean B-factor of pocket residues  : 0.5341
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.0565
+HEADER 10  -Pocket volume (convex hull)       : 2.1658
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   3402  ND2 ASN F 185      24.413  25.934  86.732  0.45  9.84           N 0
+ATOM   3367   CA THR F 181      26.964  28.236  83.463  0.00  0.00           C 0
+ATOM   3394   CB ALA F 184      24.163  30.560  86.375  0.00  0.00           C 0
+ATOM   3369    O THR F 181      26.458  27.752  85.749  0.00  0.00           O 0
+ATOM   3372  CG2 THR F 181      26.220  27.374  81.206  0.00  0.00           C 0
+ATOM   3370   CB THR F 181      26.815  26.995  82.554  0.00  0.00           C 0
+ATOM    849    O SER N 402      22.083  31.346  80.737  0.65  6.43           O 0
+ATOM    865  OE1 GLN N 404      21.321  22.946  82.181  0.74  5.36           O 0
+ATOM    853   CA SER N 403      20.103  29.388  80.188  0.00  0.00           C 0
+ATOM    858    N GLN N 404      19.070  27.204  80.525  0.57  4.37           N 0
+ATOM    862   CB GLN N 404      19.745  24.873  80.928  0.00  0.00           C 0
+ATOM    854    C SER N 403      19.854  27.958  79.775  0.00  0.00           C 0
+ATOM    855    O SER N 403      20.435  27.509  78.778  0.79  7.50           O 0
+ATOM    852    N SER N 403      21.351  29.660  79.448  0.00  0.00           N 0
+ATOM    848    C SER N 402      22.232  30.593  79.785  0.00  0.00           C 0
+ATOM    850   CB SER N 402      24.483  29.672  79.416  0.00  0.00           C 0
+TER
+END

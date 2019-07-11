@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0610
+HEADER 1  - Drug Score                        : 0.0501
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 3.9723
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5032
+HEADER 5  - Mean B-factor of pocket residues  : 0.2516
+HEADER 6  - Hydrophobicity Score              : 23.0714
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 685.6022
+HEADER 10  -Pocket volume (convex hull)       : 101.1782
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 21.8462
+HEADER 13 - Number of apolar alpha sphere     :    26
+HEADER 14 - Proportion of apolar alpha sphere : 0.5200
+ATOM   1924    N GLY A 237     -27.623 -44.254  38.347  0.64  1.09           N 0
+ATOM   1936    N ARG A 239     -26.101 -46.704  35.009  0.82  3.28           N 0
+ATOM   1916   CB PRO A 235     -31.493 -46.565  39.142  0.00  0.00           C 0
+ATOM   1925   CA GLY A 237     -27.630 -43.275  37.279  0.00  0.00           C 0
+ATOM   1926    C GLY A 237     -26.576 -43.526  36.221  0.00  0.00           C 0
+ATOM   1927    O GLY A 237     -26.565 -42.866  35.176  0.00  0.00           O 0
+ATOM   1950    O THR A 240     -27.477 -48.424  38.954  0.00  0.00           O 0
+ATOM   1937   CA ARG A 239     -26.585 -48.009  34.515  0.00  0.00           C 0
+ATOM   1897    O THR A 233     -34.121 -50.330  43.623  0.62  5.36           O 0
+ATOM   1718   CB ALA A 211     -31.661 -54.509  39.163  0.00  0.00           C 0
+ATOM   1961  CD2 PHE A 241     -30.804 -50.746  39.634  0.00  0.00           C 0
+ATOM   1900  CG2 THR A 233     -31.564 -52.904  43.064  0.00  0.00           C 0
+ATOM   1964   CZ PHE A 241     -30.968 -51.001  37.245  0.00  0.00           C 0
+ATOM   1939    O ARG A 239     -27.352 -50.038  35.507  0.00  0.00           O 0
+ATOM    233    O ASP A  30     -31.596 -51.274  32.927  0.39  8.57           O 0
+ATOM    214   OH TYR A  27     -36.692 -48.234  32.688  0.26  8.57           O 0
+ATOM    253  NE2 GLN A  32     -35.734 -45.167  29.938  0.17  5.47           N 0
+ATOM   2673   CB SER B  52     -35.669 -42.067  34.719  0.00  0.00           C 0
+ATOM   2770  CE1 TYR B  63     -37.962 -47.566  36.761  0.00  0.00           C 0
+ATOM   1898   CB THR A 233     -32.677 -53.013  44.086  0.00  0.00           C 0
+ATOM    249   CB GLN A  32     -34.363 -47.556  29.105  0.00  0.00           C 0
+ATOM    245    N GLN A  32     -32.791 -49.493  29.362  0.00  0.00           N 0
+ATOM   1963  CE2 PHE A 241     -31.503 -50.569  38.459  0.00  0.00           C 0
+ATOM   2773   OH TYR B  63     -38.153 -49.445  35.252  0.54  9.64           O 0
+ATOM    236  OD1 ASP A  30     -33.762 -54.572  35.549  0.00  0.00           O 0
+ATOM   1938    C ARG A 239     -26.615 -49.044  35.615  0.00  0.00           C 0
+ATOM   2468   OH TYR B  26     -36.985 -48.045  41.274  0.19  5.36           O 0
+ATOM   2789  CD2 LEU B  65     -31.584 -42.215  38.409  0.00  0.00           C 0
+ATOM   2786   CB LEU B  65     -34.087 -42.067  38.745  0.00  0.00           C 0
+ATOM   2674   OG SER B  52     -36.416 -42.114  35.932  0.71  1.07           O 0
+ATOM   2768  CD1 TYR B  63     -38.437 -46.880  37.899  0.00  0.00           C 0
+ATOM    234   CB ASP A  30     -31.925 -53.627  34.405  0.00  0.00           C 0
+ATOM   2772   CZ TYR B  63     -38.562 -48.772  36.382  0.00  0.00           C 0
+ATOM   2771  CE2 TYR B  63     -39.614 -49.286  37.121  0.00  0.00           C 0
+ATOM   1917   CG PRO A 235     -32.601 -45.869  39.893  0.00  0.00           C 0
+ATOM   2465  CE1 TYR B  26     -36.132 -45.839  41.041  0.00  0.00           C 0
+ATOM   1918   CD PRO A 235     -32.831 -46.789  41.089  0.00  0.00           C 0
+ATOM    212  CE2 TYR A  27     -35.563 -50.189  31.848  0.00  0.00           C 0
+ATOM    231   CA ASP A  30     -32.551 -53.498  33.018  0.00  0.00           C 0
+TER
+END

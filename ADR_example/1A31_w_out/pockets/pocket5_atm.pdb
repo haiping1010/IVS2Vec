@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0357
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9707
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6528
+HEADER 5  - Mean B-factor of pocket residues  : 0.4439
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 379.3917
+HEADER 10  -Pocket volume (convex hull)       : 23.9796
+HEADER 11 - Charge Score                      :     5
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM   1451   CG LYS A 280      43.209  15.443  28.438  0.00  0.00           C 0
+ATOM   1493   CG LYS A 284      45.984  11.275  29.015  0.00  0.00           C 0
+ATOM   1449    O LYS A 280      45.470  13.708  26.645  0.68  2.14           O 0
+ATOM   1486  NH1 ARG A 283      50.333  17.182  28.084  0.00  0.00           N 0
+ATOM   1481   CB ARG A 283      48.733  14.677  25.951  0.00  0.00           C 0
+ATOM   1488    N LYS A 284      48.012  11.663  26.858  0.00  0.00           N 0
+ATOM   1483   CD ARG A 283      48.839  17.194  25.657  0.00  0.00           C 0
+ATOM   1450   CB LYS A 280      43.113  16.062  27.057  0.00  0.00           C 0
+ATOM   1446    N LYS A 280      43.902  16.194  24.761  0.00  0.00           N 0
+ATOM   1442  CD2 PHE A 279      46.296  19.600  23.047  0.00  0.00           C 0
+ATOM   1410    O LYS A 276      41.376  17.523  24.324  0.79  2.14           O 0
+ATOM   1489   CA LYS A 284      48.182  10.612  27.849  0.00  0.00           C 0
+ATOM   1551   NZ LYS A 291      52.158  11.115  29.540  0.00  0.00           N 0
+ATOM   1413   CD LYS A 276      41.072  22.316  24.636  0.00  0.00           C 0
+ATOM   1439   CB PHE A 279      44.365  18.106  22.375  0.00  0.00           C 0
+ATOM   1447   CA LYS A 280      44.243  15.700  26.084  0.00  0.00           C 0
+ATOM   1484   NE ARG A 283      50.131  17.825  25.874  0.59  1.09           N 0
+ATOM   1444  CE2 PHE A 279      47.590  20.079  22.882  0.00  0.00           C 0
+ATOM   1579    O THR A 295      49.660  22.722  23.612  0.48  8.57           O 0
+ATOM   1480    O ARG A 283      50.218  11.924  26.598  0.00  0.00           O 0
+ATOM   1549   CD LYS A 291      53.281  13.253  28.626  0.00  0.00           C 0
+ATOM   1479    C ARG A 283      49.072  12.238  26.305  0.00  0.00           C 0
+TER
+END

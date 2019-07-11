@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1431
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9316
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5882
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.6919
+HEADER 10  -Pocket volume (convex hull)       : 3.6155
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM    497   CD GLU A  32      52.041  38.090  14.215  0.00  0.00           C 0
+ATOM    507   CA GLN A  33      52.888  42.787  11.171  0.00  0.00           C 0
+ATOM    506    N GLN A  33      51.792  41.833  11.322  0.00  0.00           N 0
+ATOM    499  OE2 GLU A  32      52.844  38.245  15.121  0.00  0.00           O 0
+ATOM    510   CB GLN A  33      53.576  42.604   9.816  0.00  0.00           C 0
+ATOM    514  NE2 GLN A  33      56.994  42.537   8.954  0.00  0.00           N 0
+ATOM    511   CG GLN A  33      54.871  43.419   9.787  0.00  0.00           C 0
+ATOM    512   CD GLN A  33      55.773  42.902   8.672  0.00  0.00           C 0
+ATOM    437   CB HIS A  29      52.189  37.619   7.415  0.00  0.00           C 0
+ATOM    513  OE1 GLN A  33      55.361  42.826   7.515  0.53  9.64           O 0
+ATOM    436    O HIS A  29      51.499  40.387   9.184  0.71  1.07           O 0
+ATOM    439  ND1 HIS A  29      53.307  36.202   9.188  0.57  1.09           N 0
+ATOM    498  OE1 GLU A  32      52.105  37.191  13.393  0.50  6.43           O 0
+ATOM    438   CG HIS A  29      52.830  36.347   7.895  0.00  0.00           C 0
+TER
+END

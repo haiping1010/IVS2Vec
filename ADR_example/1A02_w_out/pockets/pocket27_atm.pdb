@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0378
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0629
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6953
+HEADER 5  - Mean B-factor of pocket residues  : 0.6095
+HEADER 6  - Hydrophobicity Score              : 1.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.5375
+HEADER 10  -Pocket volume (convex hull)       : 14.9784
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2417  CG2 THR N 604      22.756  14.971  45.355  0.00  0.00           C 0
+ATOM   2643   CB PRO N 635      16.219  11.480  46.824  0.00  0.00           C 0
+ATOM   2412   CA THR N 604      22.584  12.465  45.796  0.00  0.00           C 0
+ATOM   2403    O PHE N 603      20.570  11.784  47.622  0.52  3.21           O 0
+ATOM   2397   CG ASN N 602      19.600  19.052  49.107  0.00  0.00           C 0
+ATOM   2393   CA ASN N 602      19.902  16.539  49.388  0.00  0.00           C 0
+ATOM   2396   CB ASN N 602      20.588  17.915  49.318  0.00  0.00           C 0
+ATOM   2185    O HIS N 575      20.518  21.242  46.466  0.23  8.57           O 0
+ATOM   2642    O PRO N 635      17.873  12.646  48.964  0.00  0.00           O 0
+ATOM   2390  OE1 GLN N 601      15.197  18.099  52.012  0.00  0.00           O 0
+ATOM   2650   CB ASN N 636      16.199  12.522  51.772  0.00  0.00           C 0
+ATOM   2392    N ASN N 602      18.951  16.493  50.497  0.39  1.09           N 0
+ATOM   2398  OD1 ASN N 602      18.398  18.826  49.064  0.00  0.00           O 0
+ATOM   2188  ND1 HIS N 575      18.252  22.100  44.205  0.00  0.00           N 0
+ATOM   2190  CE1 HIS N 575      18.510  21.638  42.993  0.00  0.00           C 0
+ATOM   2394    C ASN N 602      20.946  15.444  49.307  0.00  0.00           C 0
+ATOM   2400    N PHE N 603      20.546  14.197  49.507  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1228
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1563
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6453
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 5.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.3687
+HEADER 10  -Pocket volume (convex hull)       : 4.0197
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    454  CE1 HIS B  10       6.373   4.039  -7.905  0.00  0.00           C 0
+ATOM    452  ND1 HIS B  10       5.805   3.424  -6.852  0.68  5.47           N 0
+ATOM    382    N HIS B   5       8.453   1.658  -2.029  0.00  0.00           N 0
+ATOM    388  ND1 HIS B   5      11.090   3.081  -1.376  0.50  5.47           N 0
+ATOM    386   CB HIS B   5       8.717   3.857  -0.940  0.00  0.00           C 0
+ATOM    370   CG GLN B   4       8.298  -1.280  -5.411  0.00  0.00           C 0
+ATOM    453  CD2 HIS B  10       4.963   5.449  -7.056  0.00  0.00           C 0
+ATOM    451   CG HIS B  10       4.897   4.310  -6.292  0.00  0.00           C 0
+ATOM    455  NE2 HIS B  10       5.897   5.275  -8.074  0.52  4.37           N 0
+ATOM    422   CB CYS B   7       5.693   8.047  -1.895  0.00  0.00           C 0
+ATOM    421    O CYS B   7       3.941   7.474  -4.236  0.44  5.36           O 0
+ATOM    385    O HIS B   5       5.995   2.703  -2.451  0.59  1.07           O 0
+ATOM    418    N CYS B   7       4.428   5.928  -1.784  0.00  0.00           N 0
+ATOM    366   CA GLN B   4       8.820  -0.495  -3.088  0.00  0.00           C 0
+ATOM    354    O ASN B   3      11.120  -1.646  -3.964  0.00  0.00           O 0
+TER
+END

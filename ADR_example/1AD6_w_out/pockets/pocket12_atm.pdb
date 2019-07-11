@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0578
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9840
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6135
+HEADER 5  - Mean B-factor of pocket residues  : 0.4907
+HEADER 6  - Hydrophobicity Score              : 10.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.6131
+HEADER 10  -Pocket volume (convex hull)       : 1.8475
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM     56  NE2 GLN A 384      14.479  50.153  57.656  0.58  6.56           N 0
+ATOM     53   CG GLN A 384      15.244  49.163  59.726  0.00  0.00           C 0
+ATOM   1308    O ASN A 541      17.067  54.964  59.638  0.63  5.36           O 0
+ATOM     54   CD GLN A 384      14.162  49.367  58.687  0.00  0.00           C 0
+ATOM     52   CB GLN A 384      16.553  49.801  59.307  0.00  0.00           C 0
+ATOM   1316    O LEU A 542      14.585  57.637  60.536  0.38  7.50           O 0
+ATOM   1304    O GLY A 540      14.296  56.607  56.651  0.52  5.36           O 0
+ATOM   1307    C ASN A 541      16.789  55.698  58.697  0.00  0.00           C 0
+ATOM   1306   CA ASN A 541      16.489  55.130  57.339  0.00  0.00           C 0
+ATOM   1311  OD1 ASN A 541      15.786  52.469  56.017  0.56  1.07           O 0
+ATOM   1327  CG2 THR A 543      16.013  54.851  64.082  0.00  0.00           C 0
+ATOM   1322   CA THR A 543      14.834  56.847  63.109  0.00  0.00           C 0
+ATOM     48    N GLN A 384      17.345  49.489  61.622  0.69  2.19           N 0
+ATOM     43   CB GLN A 383      17.259  50.618  64.466  0.00  0.00           C 0
+TER
+END

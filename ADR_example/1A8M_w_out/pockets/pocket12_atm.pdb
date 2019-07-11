@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0268
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1638
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5729
+HEADER 5  - Mean B-factor of pocket residues  : 0.5652
+HEADER 6  - Hydrophobicity Score              : 38.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.1316
+HEADER 10  -Pocket volume (convex hull)       : 4.4802
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2986   CA VAL C  85      16.193  46.108  66.659  0.00  0.00           C 0
+ATOM   3353   CD ARG C 131      11.027  43.933  62.482  0.00  0.00           C 0
+ATOM   2991  CG2 VAL C  85      16.046  43.826  67.691  0.00  0.00           C 0
+ATOM   3356  NH1 ARG C 131       8.654  43.456  63.965  0.00  0.00           N 0
+ATOM   3338    O GLY C 129      15.451  42.843  64.171  0.62  6.43           O 0
+ATOM   3357  NH2 ARG C 131       8.924  41.178  63.667  0.72  8.75           N 0
+ATOM   3355   CZ ARG C 131       9.338  42.424  63.465  0.00  0.00           C 0
+ATOM   2978  CG2 ILE C  83      12.039  48.817  63.492  0.00  0.00           C 0
+ATOM   3015   CG GLN C  88      12.499  49.444  69.439  0.00  0.00           C 0
+ATOM   3354   NE ARG C 131      10.459  42.623  62.785  0.70  4.37           N 0
+ATOM   2714  CG1 VAL C  49      13.840  39.262  61.797  0.00  0.00           C 0
+ATOM   2975    O ILE C  83      14.715  47.786  63.008  0.00  0.00           O 0
+ATOM   2983    O ALA C  84      15.593  48.763  66.198  0.56  1.07           O 0
+ATOM   2988    O VAL C  85      15.794  46.703  68.936  0.39  6.43           O 0
+TER
+END

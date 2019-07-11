@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0029
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7389
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4795
+HEADER 5  - Mean B-factor of pocket residues  : 0.8814
+HEADER 6  - Hydrophobicity Score              : 46.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.7858
+HEADER 10  -Pocket volume (convex hull)       : 2.2418
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   1865   CB THR A 228      18.220  23.435  56.715  0.00  0.00           C 0
+ATOM   1840    O THR A 225      14.520  21.137  56.811  0.55  6.43           O 0
+ATOM   1864    O THR A 228      15.852  25.059  56.197  0.69  4.29           O 0
+ATOM   1883  CD1 LEU A 230      16.686  24.047  50.777  0.00  0.00           C 0
+ATOM   1759   CA THR A 216      21.927  20.088  53.160  0.00  0.00           C 0
+ATOM   1764  CG2 THR A 216      20.549  18.008  53.586  0.00  0.00           C 0
+ATOM   1753    O LEU A 215      20.496  21.517  51.254  0.41  2.14           O 0
+ATOM   1866  OG1 THR A 228      19.095  22.531  57.392  0.00  0.00           O 0
+ATOM   1838   CA THR A 225      15.731  19.056  56.832  0.00  0.00           C 0
+ATOM   1842  OG1 THR A 225      15.774  16.900  55.645  0.81  5.36           O 0
+ATOM   1882   CG LEU A 230      17.470  25.027  51.660  0.00  0.00           C 0
+ATOM   1867  CG2 THR A 228      18.978  24.242  55.649  0.00  0.00           C 0
+TER
+END

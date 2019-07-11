@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0104
+HEADER 1  - Drug Score                        : 0.0082
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9253
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7080
+HEADER 5  - Mean B-factor of pocket residues  : 0.8080
+HEADER 6  - Hydrophobicity Score              : 2.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.6279
+HEADER 10  -Pocket volume (convex hull)       : 4.9111
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM   2790   CG GLU A 445       1.197  -9.997  20.473  0.00  0.00           C 0
+ATOM   2760   CG GLN A 442       5.717  -9.911  24.246  0.00  0.00           C 0
+ATOM   2789   CB GLU A 445       1.288  -8.892  21.512  0.00  0.00           C 0
+ATOM   2827  NH2 ARG A 449      -0.692 -10.904  24.665  0.00  0.00           N 0
+ATOM   2759   CB GLN A 442       6.382 -10.114  22.889  0.00  0.00           C 0
+ATOM   2718    O GLU A 438       8.427 -11.679  20.462  0.00  0.00           O 0
+ATOM   2748  CD2 TRP A 441       4.600 -13.720  17.917  0.00  0.00           C 0
+ATOM   2755    N GLN A 442       6.035 -10.027  20.484  0.00  0.00           N 0
+ATOM   2720   CG GLU A 438       9.568 -14.642  21.311  0.00  0.00           C 0
+ATOM   2751  CE3 TRP A 441       5.431 -14.844  17.773  0.00  0.00           C 0
+ATOM   2723  OE2 GLU A 438       9.356 -16.860  22.132  0.22  9.64           O 0
+ATOM   2762  OE1 GLN A 442       7.877 -10.283  25.264  0.38  5.36           O 0
+ATOM   2756   CA GLN A 442       5.476  -9.663  21.760  0.00  0.00           C 0
+ATOM   2750  CE2 TRP A 441       3.199 -13.911  18.061  0.00  0.00           C 0
+ATOM   2749  NE1 TRP A 441       2.624 -12.674  18.174  0.00  0.00           N 0
+ATOM   2747  CD1 TRP A 441       3.609 -11.724  18.106  0.00  0.00           C 0
+ATOM   2746   CG TRP A 441       4.835 -12.306  17.954  0.00  0.00           C 0
+TER
+END

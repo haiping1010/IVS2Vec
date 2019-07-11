@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2252
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.2363
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7664
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -33.1667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 402.4753
+HEADER 10  -Pocket volume (convex hull)       : 20.6439
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM    846   CD ARG B  22      32.455  30.470   6.225  0.00  0.00           C 0
+ATOM    788   CA ASP B  19      36.773  26.800   6.439  0.00  0.00           C 0
+ATOM    847   NE ARG B  22      32.028  30.292   7.615  0.50  4.37           N 0
+ATOM    778    O ASP B  18      35.529  27.757   4.168  0.35  5.36           O 0
+ATOM    787    N ASP B  19      36.553  26.043   5.210  0.00  0.00           N 0
+ATOM    779   CB ASP B  18      34.413  24.997   3.004  0.00  0.00           C 0
+ATOM    782  OD2 ASP B  18      32.882  25.709   1.355  0.00  0.00           O 0
+ATOM    777    C ASP B  18      35.941  26.597   4.166  0.00  0.00           C 0
+ATOM    728   CA GLN B  15      35.715  21.132   5.904  0.00  0.00           C 0
+ATOM    732   CG GLN B  15      34.629  20.882   8.141  0.00  0.00           C 0
+ATOM    734  OE1 GLN B  15      32.721  19.506   8.608  0.00  0.00           O 0
+ATOM    730    O GLN B  15      36.663  23.308   6.277  0.58  2.14           O 0
+ATOM    780   CG ASP B  18      33.791  24.936   1.611  0.00  0.00           C 0
+ATOM    718  NE2 GLN B  14      32.918  19.239  -0.906  0.00  0.00           N 0
+ATOM    781  OD1 ASP B  18      34.233  24.117   0.823  0.58  7.50           O 0
+ATOM    791   CB ASP B  19      37.147  25.862   7.589  0.00  0.00           C 0
+ATOM    794  OD2 ASP B  19      36.414  26.273   9.793  0.00  0.00           O 0
+ATOM    673  OD1 ASP B  11      33.089  16.206   6.259  0.57  4.29           O 0
+ATOM    714   CB GLN B  14      34.943  19.289   1.949  0.00  0.00           C 0
+ATOM    727    N GLN B  15      35.943  20.327   4.707  0.00  0.00           N 0
+ATOM    670    O ASP B  11      35.551  17.428   5.080  0.00  0.00           O 0
+ATOM    712    C GLN B  14      36.030  20.895   3.507  0.00  0.00           C 0
+ATOM    713    O GLN B  14      35.926  22.109   3.329  0.73  1.07           O 0
+TER
+END

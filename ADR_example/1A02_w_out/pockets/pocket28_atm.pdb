@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0380
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9784
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4518
+HEADER 5  - Mean B-factor of pocket residues  : 0.7495
+HEADER 6  - Hydrophobicity Score              : -11.2000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 432.0468
+HEADER 10  -Pocket volume (convex hull)       : 45.0925
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3214
+ATOM   2923  NH1 ARG N 667      35.117  19.409  55.356  0.00  0.00           N 0
+ATOM   2920   CD ARG N 667      32.778  20.645  54.284  0.00  0.00           C 0
+ATOM   2853  CD2 TYR N 659      32.965  16.205  57.537  0.00  0.00           C 0
+ATOM   2928    O SER N 668      28.982  19.108  57.054  0.67  2.14           O 0
+ATOM   2571  OE1 GLU N 623      40.398  14.882  56.563  0.82  9.64           O 0
+ATOM   2857   OH TYR N 659      35.938  15.891  55.375  0.69  2.14           O 0
+ATOM   2572  OE2 GLU N 623      39.181  14.547  54.759  0.46  5.36           O 0
+ATOM   2497   NZ LYS N 614      38.364  19.326  61.784  0.00  0.00           N 0
+ATOM   2855  CE2 TYR N 659      34.307  16.194  57.118  0.00  0.00           C 0
+ATOM   2479  CG2 THR N 612      36.990  14.305  59.018  0.00  0.00           C 0
+ATOM   2541  NE2 GLN N 620      41.678  14.861  59.411  0.00  0.00           N 0
+ATOM   1337  OE1 GLU N 465      30.718  19.979  66.436  0.00  0.00           O 0
+ATOM   2945   CG PRO N 670      30.852  19.961  62.227  0.00  0.00           C 0
+ATOM   1334   CB GLU N 465      30.016  22.965  65.364  0.00  0.00           C 0
+ATOM   2496   CE LYS N 614      38.422  20.248  62.951  0.00  0.00           C 0
+ATOM   2478  OG1 THR N 612      36.104  14.988  61.177  0.60  4.29           O 0
+ATOM   2944   CB PRO N 670      31.146  18.506  61.957  0.00  0.00           C 0
+ATOM   2833  OD1 ASN N 657      34.178  16.342  64.880  0.00  0.00           O 0
+ATOM   2495   CD LYS N 614      38.383  19.482  64.274  0.00  0.00           C 0
+ATOM   2946   CD PRO N 670      30.242  20.402  60.939  0.00  0.00           C 0
+ATOM   2924  NH2 ARG N 667      35.617  18.532  53.292  0.57  5.47           N 0
+TER
+END

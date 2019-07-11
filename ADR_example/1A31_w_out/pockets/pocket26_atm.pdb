@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0855
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8864
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4240
+HEADER 5  - Mean B-factor of pocket residues  : 0.2320
+HEADER 6  - Hydrophobicity Score              : 29.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.9152
+HEADER 10  -Pocket volume (convex hull)       : 3.4081
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   2557  OG1 THR A 417      31.920  -3.131  31.466  0.28  6.43           O 0
+ATOM   2280  CD1 ILE A 383      32.126 -10.049  32.158  0.00  0.00           C 0
+ATOM    104  OP1 DG  C   6      27.847  -5.638  36.730  0.00  0.00           O 0
+ATOM    105  OP2 DG  C   6      28.188  -3.482  35.348  0.40  6.43           O 0
+ATOM   2452  NH1 ARG A 405      27.573 -11.294  33.236  0.62  9.84           N 0
+ATOM   2453  NH2 ARG A 405      29.507 -11.476  34.457  0.73  5.47           N 0
+ATOM   2426   NZ LYS A 402      34.954  -6.448  32.869  0.81  7.66           N 0
+ATOM   2539   CA TRP A 416      32.515  -5.886  27.598  0.00  0.00           C 0
+ATOM   2609  CG2 ILE A 424      28.379  -4.995  29.288  0.00  0.00           C 0
+ATOM   2537   OG SER A 415      29.320  -8.971  28.529  0.71  1.07           O 0
+ATOM    110  C3' DG  C   6      24.146  -6.050  33.457  0.00  0.00           C 0
+ATOM    127  OP2 DA  C   7      24.892  -7.584  31.095  0.46  1.07           O 0
+ATOM    106  O5' DG  C   6      26.040  -4.818  35.200  0.78  2.14           O 0
+ATOM   2610  CD1 ILE A 424      27.173  -4.015  32.042  0.00  0.00           C 0
+ATOM   2608  CG1 ILE A 424      28.176  -3.391  31.101  0.00  0.00           C 0
+ATOM    107  C5' DG  C   6      24.904  -5.391  35.833  0.00  0.00           C 0
+ATOM    111  O3' DG  C   6      23.452  -7.263  33.209  0.68  2.14           O 0
+TER
+END

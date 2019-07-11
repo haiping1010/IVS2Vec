@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0653
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9582
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6673
+HEADER 5  - Mean B-factor of pocket residues  : 0.5977
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.1927
+HEADER 10  -Pocket volume (convex hull)       : 6.8895
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   2319    O PRO B   5       7.225  38.929  48.310  0.70  2.14           O 0
+ATOM   3033   CD LYS B  91       7.838  42.778  52.208  0.00  0.00           C 0
+ATOM   3035   NZ LYS B  91       6.208  40.839  52.508  0.00  0.00           N 0
+ATOM   2337  CG1 ILE B   7      10.482  41.329  48.144  0.00  0.00           C 0
+ATOM   2315  CG2 THR B   4       3.302  37.432  49.709  0.00  0.00           C 0
+ATOM   2328   CG LYS B   6       8.867  34.679  48.377  0.00  0.00           C 0
+ATOM   2332    N ILE B   7      11.242  38.557  48.257  0.59  3.28           N 0
+ATOM   2327   CB LYS B   6       9.764  35.683  47.679  0.00  0.00           C 0
+ATOM   2335    O ILE B   7      13.798  38.930  49.636  0.54  7.50           O 0
+ATOM   2336   CB ILE B   7      11.901  40.918  48.510  0.00  0.00           C 0
+ATOM   2324   CA LYS B   6       9.306  37.123  47.848  0.00  0.00           C 0
+ATOM   3050  CG2 VAL B  93      12.625  43.362  51.580  0.00  0.00           C 0
+ATOM   2339  CD1 ILE B   7      10.021  42.494  48.931  0.00  0.00           C 0
+TER
+END

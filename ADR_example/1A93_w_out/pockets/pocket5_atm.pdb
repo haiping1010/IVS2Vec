@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1499
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9420
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5238
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 9.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.4331
+HEADER 10  -Pocket volume (convex hull)       : 16.4600
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM    547   SG CYS B   3      41.234   3.526  -1.842  0.00  0.00           S 0
+ATOM    543   CA CYS B   3      41.376   2.382   0.634  0.00  0.00           C 0
+ATOM     49  NE2 GLN A   7      46.390   5.274  -4.432  0.00  0.00           N 0
+ATOM    545    O CYS B   3      42.582   2.832   2.665  0.00  0.00           O 0
+ATOM    637   CD LYS B   9      42.671  10.067   4.006  0.00  0.00           C 0
+ATOM    638   CE LYS B   9      43.509   9.287   5.021  0.00  0.00           C 0
+ATOM    559    N GLY B   5      39.955   5.446   4.537  0.61  1.09           N 0
+ATOM    562    O GLY B   5      39.655   8.515   3.379  0.49  2.14           O 0
+ATOM    546   CB CYS B   3      40.808   3.606  -0.085  0.00  0.00           C 0
+ATOM    567   CA MET B   6      37.863   7.746   1.421  0.00  0.00           C 0
+ATOM     30  CG1 VAL A   6      39.702   8.236  -2.305  0.00  0.00           C 0
+ATOM    571   CG MET B   6      37.985   5.570   0.198  0.00  0.00           C 0
+ATOM     91  OE2 GLU A  10      42.915  10.431   1.073  0.53  4.29           O 0
+ATOM     90  OE1 GLU A  10      44.823  11.051   0.288  0.42  4.29           O 0
+ATOM     46   CG GLN A   7      44.972   7.265  -4.359  0.00  0.00           C 0
+ATOM     47   CD GLN A   7      46.291   6.557  -4.650  0.00  0.00           C 0
+ATOM     42   CA GLN A   7      43.738   9.393  -4.798  0.00  0.00           C 0
+ATOM     41    N GLN A   7      42.394   8.845  -4.962  0.58  1.09           N 0
+TER
+END

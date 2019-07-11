@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.1364
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0685
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6646
+HEADER 5  - Mean B-factor of pocket residues  : 0.4938
+HEADER 6  - Hydrophobicity Score              : 14.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.4991
+HEADER 10  -Pocket volume (convex hull)       : 2.1848
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1668   OG SER A 306      43.796  14.383   6.114  0.60  2.14           O 0
+ATOM   1306   CB LEU A 264      41.671  16.448   8.765  0.00  0.00           C 0
+ATOM   1308  CD1 LEU A 264      44.129  16.661   9.111  0.00  0.00           C 0
+ATOM   1709   NZ LYS A 310      41.413  15.349   2.789  0.00  0.00           N 0
+ATOM   1643   CB THR A 303      48.441  18.205   5.950  0.00  0.00           C 0
+ATOM   1642    O THR A 303      47.875  15.086   5.060  0.70  1.07           O 0
+ATOM   1645  CG2 THR A 303      47.657  19.347   6.576  0.00  0.00           C 0
+ATOM   1667   CB SER A 306      45.182  14.235   6.201  0.00  0.00           C 0
+ATOM   1669    N GLN A 307      46.687  12.998   3.818  0.00  0.00           N 0
+ATOM   1640   CA THR A 303      48.010  16.917   6.587  0.00  0.00           C 0
+ATOM   1670   CA GLN A 307      46.821  12.755   2.388  0.00  0.00           C 0
+ATOM   1673   CB GLN A 307      48.101  13.417   1.858  0.00  0.00           C 0
+TER
+END

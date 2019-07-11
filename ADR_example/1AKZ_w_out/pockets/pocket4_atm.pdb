@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1033
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7970
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6070
+HEADER 5  - Mean B-factor of pocket residues  : 0.3815
+HEADER 6  - Hydrophobicity Score              : 3.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.0739
+HEADER 10  -Pocket volume (convex hull)       : 19.0247
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM    880   CG HIS A 189     -17.886 -36.516 -19.701  0.00  0.00           C 0
+ATOM    884  NE2 HIS A 189     -17.890 -36.909 -21.833  0.69  9.84           N 0
+ATOM    669  NH1 ARG A 162     -16.663 -41.197 -19.811  0.00  0.00           N 0
+ATOM    882  CD2 HIS A 189     -18.348 -37.390 -20.633  0.00  0.00           C 0
+ATOM    883  CE1 HIS A 189     -17.189 -35.796 -21.629  0.00  0.00           C 0
+ATOM    881  ND1 HIS A 189     -17.161 -35.515 -20.337  0.00  0.00           N 0
+ATOM    896  OD2 ASP A 191     -11.671 -35.394 -20.532  0.00  0.00           O 0
+ATOM   1808  OXT LEU A 304     -16.624 -35.982 -25.153  0.58  3.21           O 0
+ATOM    894   CG ASP A 191     -12.423 -34.461 -20.860  0.00  0.00           C 0
+ATOM    666   CD ARG A 162     -15.612 -40.093 -17.445  0.00  0.00           C 0
+ATOM    909   CB SER A 193     -10.949 -33.494 -24.672  0.00  0.00           C 0
+ATOM    895  OD1 ASP A 191     -12.074 -33.588 -21.652  0.00  0.00           O 0
+ATOM    660    N ARG A 162     -12.967 -36.813 -15.865  0.71  1.09           N 0
+ATOM    664   CB ARG A 162     -13.964 -39.051 -15.909  0.00  0.00           C 0
+ATOM    659  NE2 GLN A 161      -8.732 -35.740 -19.731  0.07  9.84           N 0
+ATOM    665   CG ARG A 162     -15.325 -38.926 -16.537  0.00  0.00           C 0
+ATOM    893   CB ASP A 191     -13.824 -34.404 -20.261  0.00  0.00           C 0
+ATOM    657   CD GLN A 161      -8.663 -35.451 -18.432  0.00  0.00           C 0
+ATOM    655   CB GLN A 161     -10.383 -35.209 -16.551  0.00  0.00           C 0
+ATOM    663    O ARG A 162     -11.426 -38.330 -14.183  0.48  7.50           O 0
+ATOM    658  OE1 GLN A 161      -7.709 -35.793 -17.726  0.00  0.00           O 0
+TER
+END

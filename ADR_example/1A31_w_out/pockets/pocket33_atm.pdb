@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.1101
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7303
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5978
+HEADER 5  - Mean B-factor of pocket residues  : 0.2201
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 0.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.9929
+HEADER 10  -Pocket volume (convex hull)       : 0.2620
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    668   C5 DC  D 111      25.182  -1.418  12.248  0.00  0.00           C 0
+ATOM    666   C4 DC  D 111      24.327  -0.283  12.259  0.00  0.00           C 0
+ATOM    281   N1 DA  C  14      25.071   2.602   6.081  0.47  6.56           N 0
+ATOM    667   N4 DC  D 111      23.021  -0.426  12.121  0.00  0.00           N 0
+ATOM    260   N1 DA  C  13      24.255   3.220   9.401  0.41  2.19           N 0
+ATOM    282   C2 DA  C  14      26.365   2.457   6.344  0.00  0.00           C 0
+ATOM    259   N6 DA  C  13      22.036   3.155   8.871  0.00  0.00           N 0
+ATOM    669   C6 DC  D 111      26.495  -1.205  12.401  0.00  0.00           C 0
+ATOM    663   C2 DC  D 111      26.112   1.151  12.551  0.00  0.00           C 0
+ATOM    665   N3 DC  D 111      24.795   0.949  12.403  0.00  0.00           N 0
+ATOM    662   N1 DC  D 111      26.978   0.056  12.572  0.00  0.00           N 0
+ATOM    657  O4' DC  D 111      29.082   0.065  11.620  0.18  6.43           O 0
+TER
+END

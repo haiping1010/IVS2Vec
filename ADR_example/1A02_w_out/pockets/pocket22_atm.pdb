@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0242
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1499
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7380
+HEADER 5  - Mean B-factor of pocket residues  : 0.6864
+HEADER 6  - Hydrophobicity Score              : 6.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 482.3806
+HEADER 10  -Pocket volume (convex hull)       : 19.2453
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.3333
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   2504  CG2 THR N 615      44.769  16.511  68.278  0.00  0.00           C 0
+ATOM   2547  CG1 ILE N 621      44.130  13.026  65.122  0.00  0.00           C 0
+ATOM   2549  CD1 ILE N 621      43.454  14.154  65.875  0.00  0.00           C 0
+ATOM   2548  CG2 ILE N 621      45.968  14.702  64.821  0.00  0.00           C 0
+ATOM   2743  NH2 ARG N 646      44.236   9.664  67.081  0.28  9.84           N 0
+ATOM   2546   CB ILE N 621      45.277  13.480  64.213  0.00  0.00           C 0
+ATOM   2742  NH1 ARG N 646      45.370   8.243  65.678  0.50  6.56           N 0
+ATOM   2492    O LYS N 614      40.178  16.142  68.281  0.29  6.43           O 0
+ATOM   2488  OE2 GLU N 613      40.969  10.996  67.751  0.24  5.36           O 0
+ATOM   2499   CA THR N 615      42.533  17.543  68.826  0.00  0.00           C 0
+ATOM   2487  OE1 GLU N 613      39.233  12.291  67.319  0.54  1.07           O 0
+ATOM   2809  CG1 VAL N 654      38.826   9.496  69.979  0.00  0.00           C 0
+ATOM   2800    O PRO N 653      36.751   8.445  74.159  0.77  7.50           O 0
+ATOM   2817   CD LYS N 655      33.345  13.613  72.773  0.00  0.00           C 0
+ATOM   2816   CG LYS N 655      33.671  12.321  72.004  0.00  0.00           C 0
+ATOM   2818   CE LYS N 655      32.606  13.335  74.089  0.00  0.00           C 0
+ATOM   2811    N LYS N 655      35.873  10.615  70.579  0.61  3.28           N 0
+ATOM   2805   CA VAL N 654      36.979   8.623  71.386  0.00  0.00           C 0
+ATOM   2815   CB LYS N 655      34.439  12.626  70.720  0.00  0.00           C 0
+ATOM   2814    O LYS N 655      36.263  12.677  68.379  0.29  9.64           O 0
+TER
+END

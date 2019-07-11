@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0879
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8788
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6084
+HEADER 5  - Mean B-factor of pocket residues  : 0.2578
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.8368
+HEADER 10  -Pocket volume (convex hull)       : 3.3287
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    229  ND2 ASN A 406      30.136  61.957  35.676  0.00  0.00           N 0
+ATOM    752   CB GLN A 471      26.532  64.552  36.096  0.00  0.00           C 0
+ATOM    753   CG GLN A 471      26.744  64.878  34.604  0.00  0.00           C 0
+ATOM    705  OE2 GLU A 465      23.155  62.242  36.703  0.00  0.00           O 0
+ATOM    198  CD2 TYR A 403      27.628  60.494  42.209  0.00  0.00           C 0
+ATOM    168  ND2 ASN A 399      26.843  56.496  40.917  0.00  0.00           N 0
+ATOM    200  CE2 TYR A 403      26.285  60.337  41.935  0.00  0.00           C 0
+ATOM    189   CB SER A 402      30.779  57.439  39.096  0.00  0.00           C 0
+ATOM    199  CE1 TYR A 403      26.320  62.357  40.657  0.00  0.00           C 0
+ATOM    197  CD1 TYR A 403      27.681  62.506  40.941  0.00  0.00           C 0
+ATOM    704  OE1 GLU A 465      24.212  62.252  38.617  0.00  0.00           O 0
+ATOM    196   CG TYR A 403      28.351  61.579  41.726  0.00  0.00           C 0
+ATOM    191    N TYR A 403      31.120  60.076  40.742  0.00  0.00           N 0
+ATOM    187    C SER A 402      31.713  59.660  39.627  0.00  0.00           C 0
+ATOM    188    O SER A 402      31.973  60.413  38.686  0.53  1.07           O 0
+ATOM    201   CZ TYR A 403      25.641  61.268  41.160  0.00  0.00           C 0
+ATOM    202   OH TYR A 403      24.307  61.083  40.891  0.47  5.36           O 0
+TER
+END

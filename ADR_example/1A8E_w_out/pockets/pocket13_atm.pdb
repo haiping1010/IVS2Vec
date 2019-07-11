@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0297
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8857
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6324
+HEADER 5  - Mean B-factor of pocket residues  : 0.3748
+HEADER 6  - Hydrophobicity Score              : 9.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.4985
+HEADER 10  -Pocket volume (convex hull)       : 3.7588
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM    297   CG LYS A  41      30.314  45.734  44.685  0.00  0.00           C 0
+ATOM    303    C LYS A  42      31.444  49.280  46.855  0.00  0.00           C 0
+ATOM    299   CE LYS A  41      29.044  45.641  42.511  0.00  0.00           C 0
+ATOM    295    O LYS A  41      28.701  46.507  47.485  0.00  0.00           O 0
+ATOM    298   CD LYS A  41      30.330  45.342  43.225  0.00  0.00           C 0
+ATOM     89  OE2 GLU A  13      30.608  47.013  40.016  0.00  0.00           O 0
+ATOM    304    O LYS A  42      32.297  48.743  46.151  0.65  1.07           O 0
+ATOM     76   CA SER A  12      33.928  47.591  43.056  0.00  0.00           C 0
+ATOM    314   CB ALA A  43      30.975  52.619  45.504  0.00  0.00           C 0
+ATOM     80   OG SER A  12      33.954  49.068  41.173  0.59  3.21           O 0
+ATOM   1365  CD1 LEU A 182      33.690  51.405  38.905  0.00  0.00           C 0
+ATOM    311   CA ALA A  43      31.861  51.447  45.888  0.00  0.00           C 0
+ATOM    302   CA LYS A  42      30.642  48.480  47.836  0.00  0.00           C 0
+ATOM    310    N ALA A  43      31.196  50.574  46.834  0.71  2.19           N 0
+ATOM    307   CD LYS A  42      28.849  48.689  50.250  0.00  0.00           C 0
+TER
+END

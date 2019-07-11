@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0144
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8011
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4819
+HEADER 5  - Mean B-factor of pocket residues  : 0.4038
+HEADER 6  - Hydrophobicity Score              : 1.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.6697
+HEADER 10  -Pocket volume (convex hull)       : 3.0496
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   2122    N ASP A 277      52.333  30.007  45.153  0.29  5.47           N 0
+ATOM   2119   CD LYS A 276      53.668  34.931  46.578  0.00  0.00           C 0
+ATOM   2114   CA LYS A 276      52.124  31.630  46.899  0.00  0.00           C 0
+ATOM   2128  OD1 ASP A 277      54.467  30.527  43.176  0.00  0.00           O 0
+ATOM   2120   CE LYS A 276      52.809  36.165  46.305  0.00  0.00           C 0
+ATOM   2178   CB GLN A 283      46.747  33.103  42.921  0.00  0.00           C 0
+ATOM   2195   CB PHE A 285      49.036  36.942  46.904  0.00  0.00           C 0
+ATOM   2193    C PHE A 285      48.081  37.435  44.675  0.00  0.00           C 0
+ATOM   2191    N PHE A 285      46.941  35.869  46.262  0.00  0.00           N 0
+ATOM   2113    N LYS A 276      51.120  31.600  47.977  0.59  1.09           N 0
+ATOM   2207   OG SER A 286      48.213  35.636  41.250  0.81  8.57           O 0
+ATOM   2194    O PHE A 285      49.101  38.071  44.442  0.69  2.14           O 0
+ATOM   2111    C GLY A 275      49.963  30.959  47.832  0.00  0.00           C 0
+ATOM   2179   CG GLN A 283      47.485  32.064  42.063  0.00  0.00           C 0
+ATOM   2206   CB SER A 286      48.453  36.982  41.569  0.00  0.00           C 0
+ATOM   2112    O GLY A 275      49.670  30.306  46.807  0.44  1.07           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0719
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9400
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4549
+HEADER 5  - Mean B-factor of pocket residues  : 0.6999
+HEADER 6  - Hydrophobicity Score              : 37.9000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.6184
+HEADER 10  -Pocket volume (convex hull)       : 7.4871
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   3081   CE MET B  99     -31.994 -43.892  56.433  0.00  0.00           C 0
+ATOM   3022  CG1 VAL B  93     -35.935 -38.834  53.069  0.00  0.00           C 0
+ATOM   2322    N VAL B   9     -33.187 -40.871  49.157  0.60  1.09           N 0
+ATOM   2308    O ILE B   7     -36.984 -42.586  50.496  0.46  7.50           O 0
+ATOM   2314   CA GLN B   8     -34.844 -42.645  48.818  0.00  0.00           C 0
+ATOM   1883  CG1 VAL A 231     -33.305 -49.133  52.523  0.00  0.00           C 0
+ATOM   2318   CG GLN B   8     -34.869 -45.218  49.072  0.00  0.00           C 0
+ATOM   2325    O VAL B   9     -30.503 -40.648  50.195  0.45  4.29           O 0
+ATOM   1994  CZ2 TRP A 244     -30.980 -47.911  54.518  0.00  0.00           C 0
+ATOM   1869  OE2 GLU A 229     -34.730 -49.160  56.970  0.00  0.00           O 0
+ATOM   3027    O LYS B  94     -32.263 -37.452  54.203  0.53  4.29           O 0
+ATOM   2320  OE1 GLN B   8     -33.080 -46.720  49.566  0.60  1.07           O 0
+ATOM   3077    O MET B  99     -29.420 -44.889  51.807  0.38  3.21           O 0
+ATOM   2317   CB GLN B   8     -34.288 -44.001  48.345  0.00  0.00           C 0
+ATOM   3051   CB ASP B  96     -29.216 -40.078  55.761  0.00  0.00           C 0
+ATOM   3047    N ASP B  96     -29.197 -38.431  53.940  0.00  0.00           N 0
+ATOM   3078   CB MET B  99     -29.300 -43.914  54.569  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0560
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9869
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6202
+HEADER 5  - Mean B-factor of pocket residues  : 0.5676
+HEADER 6  - Hydrophobicity Score              : 1.2500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.4373
+HEADER 10  -Pocket volume (convex hull)       : 2.1623
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   3385  OE2 GLU C 135       9.035  52.193  54.848  0.00  0.00           O 0
+ATOM   3049  ND2 ASN C  92      13.067  56.582  56.816  0.90  3.28           N 0
+ATOM   2946  CG2 THR C  79      11.384  54.137  52.587  0.00  0.00           C 0
+ATOM   3048  OD1 ASN C  92      12.770  58.047  55.135  0.65  7.50           O 0
+ATOM   3389    O ILE C 136       4.442  53.911  49.813  0.62  5.36           O 0
+ATOM   3388    C ILE C 136       4.970  54.170  48.746  0.00  0.00           C 0
+ATOM   2928  OG1 THR C  77       7.843  58.260  48.149  0.00  0.00           O 0
+ATOM   3380    O GLU C 135       8.440  52.666  49.675  0.60  2.14           O 0
+ATOM   3398   CB ASN C 137       4.036  57.464  48.689  0.00  0.00           C 0
+ATOM   3382   CG GLU C 135       7.689  52.621  52.931  0.00  0.00           C 0
+ATOM   2944   CB THR C  79      11.348  54.601  51.136  0.00  0.00           C 0
+ATOM   2960   OG SER C  81      11.501  52.567  56.009  0.77  1.07           O 0
+ATOM   3032   CD LYS C  90      10.531  54.422  59.025  0.00  0.00           C 0
+ATOM   3383   CD GLU C 135       7.895  52.530  54.439  0.00  0.00           C 0
+ATOM   3384  OE1 GLU C 135       6.942  52.825  55.207  0.00  0.00           O 0
+TER
+END

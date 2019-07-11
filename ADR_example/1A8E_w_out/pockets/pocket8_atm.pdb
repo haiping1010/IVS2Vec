@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0268
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.2035
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6844
+HEADER 5  - Mean B-factor of pocket residues  : 0.4596
+HEADER 6  - Hydrophobicity Score              : -5.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 411.5344
+HEADER 10  -Pocket volume (convex hull)       : 18.2455
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   1240    N THR A 165      35.166  68.092  43.529  0.72  1.09           N 0
+ATOM   1239    O GLY A 164      36.713  68.997  42.116  0.00  0.00           O 0
+ATOM   1238    C GLY A 164      36.312  68.063  42.840  0.00  0.00           C 0
+ATOM   1245  OG1 THR A 165      32.276  67.858  43.709  0.00  0.00           O 0
+ATOM   1294   CB CYS A 171      40.287  64.852  40.124  0.00  0.00           C 0
+ATOM   1269    O PRO A 168      41.163  68.735  39.843  0.58  4.29           O 0
+ATOM   1326    N GLY A 176      37.635  63.055  38.335  0.70  4.37           N 0
+ATOM   1241   CA THR A 165      34.278  69.247  43.478  0.00  0.00           C 0
+ATOM   1327   CA GLY A 176      36.688  62.391  39.198  0.00  0.00           C 0
+ATOM   1329    O GLY A 176      36.550  61.694  41.459  0.31  2.14           O 0
+ATOM   1237   CA GLY A 164      37.169  66.805  42.991  0.00  0.00           C 0
+ATOM   1236    N GLY A 164      36.868  66.072  44.196  0.00  0.00           N 0
+ATOM   1226    O ALA A 162      37.932  63.227  45.566  0.00  0.00           O 0
+ATOM   1234  OD1 ASP A 163      34.352  67.031  46.123  0.62  4.29           O 0
+ATOM   1320   CA PRO A 175      39.073  63.289  36.434  0.00  0.00           C 0
+ATOM   1267   CA PRO A 168      39.601  70.012  41.186  0.00  0.00           C 0
+ATOM   1270   CB PRO A 168      38.986  71.190  40.389  0.00  0.00           C 0
+ATOM   1293    O CYS A 171      41.502  64.918  37.676  0.00  0.00           O 0
+ATOM   1323   CB PRO A 175      38.585  63.525  34.995  0.00  0.00           C 0
+ATOM   1229   CA ASP A 163      36.808  65.613  46.558  0.00  0.00           C 0
+TER
+END

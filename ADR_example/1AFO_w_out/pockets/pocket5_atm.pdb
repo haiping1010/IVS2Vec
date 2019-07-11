@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0258
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4494
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -2.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.2858
+HEADER 10  -Pocket volume (convex hull)       : 12.0202
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4091
+ATOM   1156   OH TYR B  93      10.148   1.498 -16.586  0.67  5.36           O 0
+ATOM   1153  CE1 TYR B  93      10.552   2.768 -14.581  0.00  0.00           C 0
+ATOM   1201  NH1 ARG B  96      13.311  -1.288 -15.656  0.00  0.00           N 0
+ATOM   1308   NZ LYS B 101      14.760   4.264 -18.734  0.00  0.00           N 0
+ATOM   1199   NE ARG B  96      14.194  -0.702 -13.658  0.71  1.09           N 0
+ATOM   1198   CD ARG B  96      15.627  -1.100 -13.554  0.00  0.00           C 0
+ATOM   1282   CB LYS B 100      19.823   2.452 -14.967  0.00  0.00           C 0
+ATOM   1283   CG LYS B 100      20.902   1.770 -15.810  0.00  0.00           C 0
+ATOM   1305   CG LYS B 101      17.909   5.751 -18.587  0.00  0.00           C 0
+ATOM   1307   CE LYS B 101      15.982   4.488 -19.558  0.00  0.00           C 0
+ATOM   1284   CD LYS B 100      20.959   0.283 -15.456  0.00  0.00           C 0
+ATOM   1222   CD ARG B  97      14.372   7.815 -13.768  0.00  0.00           C 0
+ATOM   1220   CB ARG B  97      15.054   5.911 -12.302  0.00  0.00           C 0
+ATOM   1197   CG ARG B  96      16.437   0.069 -12.990  0.00  0.00           C 0
+ATOM   1281    O LYS B 100      18.347   5.135 -14.596  0.85  2.14           O 0
+ATOM   1216    N ARG B  97      16.036   3.719 -11.742  0.00  0.00           N 0
+ATOM   1217   CA ARG B  97      16.282   5.009 -12.440  0.00  0.00           C 0
+TER
+END

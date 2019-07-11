@@ -1,0 +1,56 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0962
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    49
+HEADER 3  - Mean alpha-sphere radius          : 4.1118
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4864
+HEADER 5  - Mean B-factor of pocket residues  : 0.2069
+HEADER 6  - Hydrophobicity Score              : -1.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 1.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 534.8274
+HEADER 10  -Pocket volume (convex hull)       : 61.7951
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.1633
+ATOM     62  OP2 DG  A4004      12.174  26.506  43.331  0.00  0.00           O 0
+ATOM   2186   CB HIS N 575      18.900  24.033  45.701  0.00  0.00           C 0
+ATOM   2156   CG GLN N 571      16.473  29.987  46.505  0.00  0.00           C 0
+ATOM   2154    O GLN N 571      18.308  27.192  48.026  0.53  5.36           O 0
+ATOM   2188  ND1 HIS N 575      18.252  22.100  44.205  0.00  0.00           N 0
+ATOM   2190  CE1 HIS N 575      18.510  21.638  42.993  0.00  0.00           C 0
+ATOM     61  OP1 DG  A4004      11.182  24.985  41.502  0.00  0.00           O 0
+ATOM   2187   CG HIS N 575      18.954  23.271  44.411  0.00  0.00           C 0
+ATOM   2189  CD2 HIS N 575      19.644  23.501  43.266  0.00  0.00           C 0
+ATOM   2191  NE2 HIS N 575      19.351  22.469  42.402  0.77  8.75           N 0
+ATOM    119   N6 DA  A4006      20.096  34.800  41.687  0.30  1.09           N 0
+ATOM    116   N7 DA  A4006      19.968  34.591  38.624  0.52  4.37           N 0
+ATOM     91  C2' DA  A4005      17.812  31.949  37.773  0.00  0.00           C 0
+ATOM     94   C8 DA  A4005      16.875  32.180  40.795  0.00  0.00           C 0
+ATOM   2159  NE2 GLN N 571      16.190  30.390  44.130  0.00  0.00           N 0
+ATOM     69  C2' DG  A4004      14.018  29.578  40.153  0.00  0.00           C 0
+ATOM     84  OP2 DA  A4005      15.615  27.697  37.766  0.00  0.00           O 0
+ATOM     63  O5' DG  A4004      12.008  27.287  40.939  0.64  3.21           O 0
+ATOM   2164   CB ARG N 572      21.898  28.835  46.466  0.00  0.00           C 0
+ATOM     95   N7 DA  A4005      16.786  32.599  42.035  0.00  0.00           N 0
+ATOM   2165   CG ARG N 572      22.812  28.016  45.604  0.00  0.00           C 0
+ATOM   2161   CA ARG N 572      20.715  28.008  46.955  0.00  0.00           C 0
+ATOM    140   N6 DA  A4007      23.243  35.281  40.526  0.35  6.56           N 0
+ATOM    734   O4 DT  B5016      23.354  33.815  43.175  0.51  5.36           O 0
+ATOM    716   C7 DT  B5015      26.900  30.807  42.094  0.00  0.00           C 0
+ATOM    714   O4 DT  B5015      26.730  33.519  41.257  0.50  5.36           O 0
+ATOM   2166   CD ARG N 572      24.102  28.726  45.279  0.00  0.00           C 0
+ATOM    736   C7 DT  B5016      23.570  32.236  45.594  0.00  0.00           C 0
+ATOM    754   O4 DT  B5017      20.247  35.076  44.603  0.59  2.14           O 0
+ATOM   2158  OE1 GLN N 571      16.779  32.128  45.435  0.00  0.00           O 0
+ATOM   2157   CD GLN N 571      16.497  30.930  45.307  0.00  0.00           C 0
+ATOM   2160    N ARG N 572      19.760  28.858  47.630  0.00  0.00           N 0
+ATOM    756   C7 DT  B5017      20.566  35.192  47.481  0.00  0.00           C 0
+ATOM   2155   CB GLN N 571      17.335  30.487  47.680  0.00  0.00           C 0
+TER
+END

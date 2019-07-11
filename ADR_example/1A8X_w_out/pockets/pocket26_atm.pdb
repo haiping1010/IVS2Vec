@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.1264
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.3182
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4725
+HEADER 5  - Mean B-factor of pocket residues  : 0.3285
+HEADER 6  - Hydrophobicity Score              : -24.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.2493
+HEADER 10  -Pocket volume (convex hull)       : 5.2348
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3012    C PRO A 600      25.553  15.607  41.530  0.00  0.00           C 0
+ATOM   3013    O PRO A 600      26.599  16.221  41.187  0.00  0.00           O 0
+ATOM   3014   CB PRO A 600      23.121  15.596  40.887  0.00  0.00           C 0
+ATOM   2419   NZ LYS A 518      24.324  24.448  43.136  0.00  0.00           N 0
+ATOM   3011   CA PRO A 600      24.557  15.270  40.475  0.00  0.00           C 0
+ATOM   2583  CE1 HIS A 540      23.264  20.144  36.728  0.00  0.00           C 0
+ATOM     19  ND2 ASN A   2      28.923  19.134  37.229  0.00  0.00           N 0
+ATOM   2581  ND1 HIS A 540      23.439  21.404  36.254  0.28  4.37           N 0
+ATOM   2417   CD LYS A 518      22.258  24.508  41.788  0.00  0.00           C 0
+ATOM   2407   CB ASP A 517      19.199  19.970  41.456  0.00  0.00           C 0
+ATOM   2418   CE LYS A 518      22.846  24.407  43.197  0.00  0.00           C 0
+ATOM   2658   OG SER A 552      24.884  18.201  35.062  0.00  0.00           O 0
+ATOM   2410  OD2 ASP A 517      20.056  19.411  39.300  0.48  2.14           O 0
+TER
+END

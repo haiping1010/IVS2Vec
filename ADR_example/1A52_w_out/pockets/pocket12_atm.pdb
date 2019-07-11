@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0039
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7133
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4225
+HEADER 5  - Mean B-factor of pocket residues  : 0.5559
+HEADER 6  - Hydrophobicity Score              : 19.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.8328
+HEADER 10  -Pocket volume (convex hull)       : 1.6188
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2105    N GLU B 330      84.471  12.546  59.149  0.60  2.19           N 0
+ATOM   2226    O LEU B 345      86.763  10.650  64.917  0.00  0.00           O 0
+ATOM   2229  CD1 LEU B 345      83.988   9.281  63.316  0.00  0.00           C 0
+ATOM   2250   CB ASN B 348      90.033   9.924  62.141  0.00  0.00           C 0
+ATOM   2108    O GLU B 330      84.352   9.476  58.155  0.44  9.64           O 0
+ATOM   2253  ND2 ASN B 348      89.451   7.561  61.992  0.55  9.84           N 0
+ATOM   2109   CB GLU B 330      85.473  11.695  57.088  0.00  0.00           C 0
+ATOM   2104   OG SER B 329      83.407  12.057  62.602  0.00  0.00           O 0
+ATOM   2110   CG GLU B 330      86.390  12.920  57.068  0.00  0.00           C 0
+ATOM   2285  NH2 ARG B 352      87.758  14.189  59.376  0.59  2.19           N 0
+ATOM   2282   NE ARG B 352      89.950  14.408  58.738  0.00  0.00           N 0
+ATOM   2254    N LEU B 349      89.477  12.550  63.666  0.55  1.09           N 0
+ATOM   2251   CG ASN B 348      90.437   8.462  61.973  0.00  0.00           C 0
+TER
+END

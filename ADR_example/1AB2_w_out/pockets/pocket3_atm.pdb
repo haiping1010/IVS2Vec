@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1044
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4749
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3511
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 70.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 78.7565
+HEADER 10  -Pocket volume (convex hull)       : 0.7495
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    892    O ARG A  59       1.335   5.702 -20.776  0.59  1.07           O 0
+ATOM    871    O TYR A  58      -2.028   6.405 -19.806  0.74  1.07           O 0
+ATOM   1067  CG1 VAL A  70       1.915  11.821 -21.077  0.00  0.00           C 0
+ATOM    875  CD2 TYR A  58      -1.713   8.290 -24.224  0.00  0.00           C 0
+ATOM   1402   CB LEU A  93      -2.571  13.098 -19.937  0.00  0.00           C 0
+ATOM    680  CG2 ILE A  47      -4.502   8.762 -18.369  0.00  0.00           C 0
+ATOM   1405  CD2 LEU A  93      -0.377  12.653 -18.778  0.00  0.00           C 0
+ATOM   1068  CG2 VAL A  70       2.490  11.512 -18.642  0.00  0.00           C 0
+ATOM    918  CG1 ILE A  60       0.903   7.444 -16.403  0.00  0.00           C 0
+ATOM    872   CB TYR A  58      -2.998   7.357 -22.267  0.00  0.00           C 0
+ATOM   1399   CA LEU A  93      -1.961  13.388 -21.309  0.00  0.00           C 0
+ATOM    914   CA ILE A  60       2.295   6.567 -18.316  0.00  0.00           C 0
+TER
+END

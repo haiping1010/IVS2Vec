@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.1392
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8907
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5285
+HEADER 5  - Mean B-factor of pocket residues  : 0.8152
+HEADER 6  - Hydrophobicity Score              : -4.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.6378
+HEADER 10  -Pocket volume (convex hull)       : 4.8871
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   3267   CG GLU F 168      42.890  30.444  70.431  0.00  0.00           C 0
+ATOM   3269  OE1 GLU F 168      44.731  31.398  69.223  0.72  5.36           O 0
+ATOM   3268   CD GLU F 168      44.168  31.261  70.338  0.00  0.00           C 0
+ATOM   2519  OD2 ASP N 617      46.460  22.450  70.422  0.00  0.00           O 0
+ATOM   3263   CA GLU F 168      40.952  29.402  69.126  0.00  0.00           C 0
+ATOM   2508    O THR N 616      41.483  22.765  70.801  0.69  3.21           O 0
+ATOM   3292   CD GLN F 171      40.792  26.430  73.028  0.00  0.00           C 0
+ATOM   3291   CG GLN F 171      39.733  27.156  72.202  0.00  0.00           C 0
+ATOM   3266   CB GLU F 168      42.173  30.316  69.097  0.00  0.00           C 0
+ATOM   2515    O ASP N 617      43.099  23.687  66.665  0.75  8.57           O 0
+ATOM   3262    N GLU F 168      40.619  28.979  67.790  0.74  1.09           N 0
+ATOM   2513   CA ASP N 617      43.477  22.679  68.813  0.00  0.00           C 0
+ATOM   3293  OE1 GLN F 171      41.722  27.059  73.560  0.58  6.43           O 0
+ATOM   3270  OE2 GLU F 168      44.625  31.762  71.390  0.64  4.29           O 0
+ATOM   3236    O THR F 164      42.675  29.455  65.670  0.50  2.14           O 0
+ATOM   3239  CG2 THR F 164      45.520  28.401  64.841  0.00  0.00           C 0
+ATOM   2516   CB ASP N 617      44.981  22.492  68.558  0.00  0.00           C 0
+ATOM   3260    O ALA F 167      38.995  27.553  68.460  0.67  9.64           O 0
+ATOM   3259    C ALA F 167      39.669  28.080  67.565  0.00  0.00           C 0
+TER
+END

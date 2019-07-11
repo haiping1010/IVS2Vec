@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0296
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1484
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6450
+HEADER 5  - Mean B-factor of pocket residues  : 0.6211
+HEADER 6  - Hydrophobicity Score              : 28.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.7450
+HEADER 10  -Pocket volume (convex hull)       : 8.7387
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1380   CD ARG A 176      24.819  17.083   7.845  0.00  0.00           C 0
+ATOM   1211  CE2 PHE A 154      19.368  15.278   9.247  0.00  0.00           C 0
+ATOM   1212   CZ PHE A 154      19.347  14.713   7.977  0.00  0.00           C 0
+ATOM   1361   CE MET A 173      21.105  14.452  13.254  0.00  0.00           C 0
+ATOM   1359   CG MET A 173      21.229  17.140  12.685  0.00  0.00           C 0
+ATOM   1205    O PHE A 154      17.735  12.309  11.539  0.50  7.50           O 0
+ATOM   1384  NH2 ARG A 176      27.610  18.935   9.344  0.00  0.00           N 0
+ATOM   1321    O GLU A 169      24.283  20.198  15.141  0.00  0.00           O 0
+ATOM   1358   CB MET A 173      22.096  18.321  13.068  0.00  0.00           C 0
+ATOM   1236   CE MET A 157      23.314  17.206  16.229  0.00  0.00           C 0
+ATOM   1322   CB GLU A 169      26.589  19.438  17.357  0.00  0.00           C 0
+ATOM   1352  OE1 GLU A 172      28.817  21.280  12.841  0.00  0.00           O 0
+ATOM   1319   CA GLU A 169      26.146  20.696  16.584  0.00  0.00           C 0
+ATOM   1349   CB GLU A 172      26.121  21.798  12.250  0.00  0.00           C 0
+ATOM   1354    N MET A 173      23.306  20.308  12.315  0.60  1.09           N 0
+ATOM   1381   NE ARG A 176      25.670  17.865   8.743  0.00  0.00           N 0
+ATOM   1355   CA MET A 173      22.441  19.224  11.892  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0191
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7184
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4887
+HEADER 5  - Mean B-factor of pocket residues  : 0.3988
+HEADER 6  - Hydrophobicity Score              : 14.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.4288
+HEADER 10  -Pocket volume (convex hull)       : 4.2117
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   2528   CB LEU C  26       3.389  46.895  48.140  0.00  0.00           C 0
+ATOM   3386    N ILE C 136       6.254  52.231  49.254  0.79  1.09           N 0
+ATOM   3391  CG1 ILE C 136       4.162  51.974  47.117  0.00  0.00           C 0
+ATOM   2518    O GLN C  25       1.208  47.267  50.227  0.60  9.64           O 0
+ATOM   2531  CD2 LEU C  26       5.764  47.672  48.026  0.00  0.00           C 0
+ATOM   3378   CA GLU C 135       7.365  50.962  50.983  0.00  0.00           C 0
+ATOM   3381   CB GLU C 135       6.851  51.486  52.342  0.00  0.00           C 0
+ATOM   3389    O ILE C 136       4.442  53.911  49.813  0.62  5.36           O 0
+ATOM   3417   CB PRO C 139       0.145  51.320  47.080  0.00  0.00           C 0
+ATOM   3418   CG PRO C 139      -0.797  52.301  47.703  0.00  0.00           C 0
+ATOM   3375    O ALA C 134       7.729  48.349  51.416  0.48  4.29           O 0
+ATOM   3371   OG SER C 133       8.588  48.446  55.906  0.33  9.64           O 0
+ATOM   2691  ND2 ASN C  46       4.772  44.738  53.479  0.14  9.84           N 0
+ATOM   2527    O LEU C  26       3.426  45.195  50.315  0.00  0.00           O 0
+TER
+END

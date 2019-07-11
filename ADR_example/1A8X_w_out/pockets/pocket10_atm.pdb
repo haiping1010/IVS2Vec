@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1591
+HEADER 1  - Drug Score                        : 0.1582
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.7964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4453
+HEADER 5  - Mean B-factor of pocket residues  : 0.5225
+HEADER 6  - Hydrophobicity Score              : 35.8889
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.9986
+HEADER 10  -Pocket volume (convex hull)       : 20.2692
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 24.0000
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 0.7143
+ATOM   1814  CG1 ILE A 437      22.922  28.911  11.952  0.00  0.00           C 0
+ATOM   2018  CE1 TYR A 466      28.979  25.378  10.325  0.00  0.00           C 0
+ATOM   2020   CZ TYR A 466      28.889  24.989  11.640  0.00  0.00           C 0
+ATOM   2019  CE2 TYR A 466      27.783  24.297  12.068  0.00  0.00           C 0
+ATOM   1803    O GLN A 436      24.582  29.944   8.786  0.00  0.00           O 0
+ATOM   2041  OE1 GLU A 468      26.246  26.884   7.620  0.00  0.00           O 0
+ATOM   2039   CG GLU A 468      27.476  28.779   6.839  0.00  0.00           C 0
+ATOM   2038   CB GLU A 468      28.652  27.849   7.149  0.00  0.00           C 0
+ATOM   2085  OE1 GLN A 474      27.714  27.264  16.203  0.04  7.50           O 0
+ATOM   2021   OH TYR A 466      29.925  25.297  12.548  0.72  4.29           O 0
+ATOM   2016  CD1 TYR A 466      27.967  25.077   9.441  0.00  0.00           C 0
+ATOM   2017  CD2 TYR A 466      26.777  24.000  11.180  0.00  0.00           C 0
+ATOM   2081    O GLN A 474      24.560  23.043  17.447  0.57  5.36           O 0
+ATOM   1991    O ALA A 463      24.407  20.535  13.957  0.52  4.29           O 0
+ATOM   1992   CB ALA A 463      21.954  21.604  13.083  0.00  0.00           C 0
+ATOM   2098   CB SER A 476      20.704  26.373  17.721  0.00  0.00           C 0
+ATOM   2082   CB GLN A 474      26.844  24.806  17.528  0.00  0.00           C 0
+ATOM   2224  CG1 VAL A 492      25.414  26.799  20.127  0.00  0.00           C 0
+ATOM   2225  CG2 VAL A 492      24.028  28.965  19.997  0.00  0.00           C 0
+ATOM   1816  CD1 ILE A 437      22.331  28.866  13.360  0.00  0.00           C 0
+ATOM   2015   CG TYR A 466      26.854  24.387   9.862  0.00  0.00           C 0
+ATOM   1847  CE2 PHE A 441      20.152  24.130  13.270  0.00  0.00           C 0
+ATOM   2099   OG SER A 476      19.877  25.456  17.023  0.97  1.07           O 0
+ATOM   1815  CG2 ILE A 437      22.425  26.502  11.212  0.00  0.00           C 0
+TER
+END

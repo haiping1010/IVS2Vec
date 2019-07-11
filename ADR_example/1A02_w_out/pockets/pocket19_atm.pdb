@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0155
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0323
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4563
+HEADER 5  - Mean B-factor of pocket residues  : 0.7537
+HEADER 6  - Hydrophobicity Score              : 11.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.1271
+HEADER 10  -Pocket volume (convex hull)       : 6.2957
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   1788   CB ALA N 524      28.351  44.350  52.561  0.00  0.00           C 0
+ATOM   3566   NZ LYS J 278      33.439  47.593  48.127  0.00  0.00           N 0
+ATOM   3564   CD LYS J 278      34.811  45.734  49.185  0.00  0.00           C 0
+ATOM    187  OP1 DT  A4010      30.176  44.070  48.918  0.56  8.57           O 0
+ATOM   3600   NE ARG J 282      34.394  42.491  52.346  0.80  4.37           N 0
+ATOM   3603  NH2 ARG J 282      32.738  41.557  50.941  0.69  1.09           N 0
+ATOM   3563   CG LYS J 278      36.190  45.381  49.727  0.00  0.00           C 0
+ATOM   1821  CD2 LEU N 528      31.113  48.791  56.247  0.00  0.00           C 0
+ATOM   3565   CE LYS J 278      34.716  47.222  48.818  0.00  0.00           C 0
+ATOM   1787    O ALA N 524      28.777  45.671  55.266  0.61  3.21           O 0
+ATOM   3599   CD ARG J 282      35.306  42.431  53.496  0.00  0.00           C 0
+ATOM   1812  OE1 GLU N 527      31.199  40.645  55.270  0.77  2.14           O 0
+ATOM   1785   CA ALA N 524      28.339  43.751  53.940  0.00  0.00           C 0
+ATOM   1815   CA LEU N 528      31.045  46.429  58.581  0.00  0.00           C 0
+ATOM   1814    N LEU N 528      30.581  45.046  58.548  0.80  1.09           N 0
+ATOM   1808    O GLU N 527      32.406  44.183  59.530  0.81  5.36           O 0
+ATOM   1807    C GLU N 527      31.290  44.043  59.041  0.00  0.00           C 0
+ATOM   1809   CB GLU N 527      31.222  41.957  57.707  0.00  0.00           C 0
+TER
+END

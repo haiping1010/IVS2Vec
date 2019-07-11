@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0523
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4539
+HEADER 5  - Mean B-factor of pocket residues  : 0.4072
+HEADER 6  - Hydrophobicity Score              : -20.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.9251
+HEADER 10  -Pocket volume (convex hull)       : 4.4586
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1923
+ATOM   3218  OG1 THR A 498      24.117  13.565  29.653  0.71  3.21           O 0
+ATOM   3226   CA ASP A 500      21.504  17.699  27.068  0.00  0.00           C 0
+ATOM   3216    O THR A 498      26.015  16.191  28.119  0.09  5.36           O 0
+ATOM   3225    N ASP A 500      22.833  17.382  26.585  0.00  0.00           N 0
+ATOM   3192   CA GLU A 495      24.328  16.648  34.128  0.00  0.00           C 0
+ATOM   3185    O GLU A 494      25.267  14.493  32.515  0.00  0.00           O 0
+ATOM   3200    N GLY A 496      26.362  17.072  32.885  0.61  5.47           N 0
+ATOM   3229   CB ASP A 500      21.560  19.082  27.735  0.00  0.00           C 0
+ATOM   3232  OD2 ASP A 500      20.097  20.775  28.506  0.00  0.00           O 0
+ATOM   3230   CG ASP A 500      20.215  19.550  28.314  0.00  0.00           C 0
+ATOM   3231  OD1 ASP A 500      19.299  18.743  28.604  0.19  4.29           O 0
+ATOM   3286  NH1 ARG A 508      17.822  20.173  30.912  0.00  0.00           N 0
+ATOM   3184    C GLU A 494      24.403  14.317  33.379  0.00  0.00           C 0
+ATOM   3176    O LYS A 493      21.309  14.013  33.348  0.64  6.43           O 0
+ATOM   3177   CB LYS A 493      20.760  12.725  30.474  0.00  0.00           C 0
+ATOM   3196   CG GLU A 495      22.449  16.687  35.785  0.00  0.00           C 0
+ATOM   3195   CB GLU A 495      23.739  17.344  35.336  0.00  0.00           C 0
+TER
+END

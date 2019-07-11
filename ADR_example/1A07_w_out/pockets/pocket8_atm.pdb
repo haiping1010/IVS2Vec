@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0872
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9918
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5187
+HEADER 5  - Mean B-factor of pocket residues  : 0.4438
+HEADER 6  - Hydrophobicity Score              : 18.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.7401
+HEADER 10  -Pocket volume (convex hull)       : 17.0599
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   1665   CD LYS B 206      35.797  -6.563  38.615  0.00  0.00           C 0
+ATOM   1666   CE LYS B 206      36.625  -7.538  37.742  0.00  0.00           C 0
+ATOM   2118    O GLU D 102      41.170  -8.120  43.408  0.81  6.43           O 0
+ATOM   1691  NH2 ARG B 208      33.027  -9.266  39.442  0.00  0.00           N 0
+ATOM   1767   OH TYR B 216      29.890  -6.867  43.947  0.00  0.00           O 0
+ATOM   1688   NE ARG B 208      32.195  -7.267  40.159  0.67  2.19           N 0
+ATOM   1764  CE1 TYR B 216      31.522  -5.878  45.364  0.00  0.00           C 0
+ATOM   1686   CG ARG B 208      31.793  -5.302  41.342  0.00  0.00           C 0
+ATOM   1759    O TYR B 216      33.658  -2.297  44.579  0.00  0.00           O 0
+ATOM   1662    O LYS B 206      36.795  -3.338  42.315  0.59  3.21           O 0
+ATOM   1663   CB LYS B 206      37.336  -5.131  39.755  0.00  0.00           C 0
+ATOM   1659    N LYS B 206      39.020  -3.933  40.853  0.62  2.19           N 0
+ATOM   1776  CG2 ILE B 217      38.289  -3.235  46.246  0.00  0.00           C 0
+ATOM   1773    O ILE B 217      35.892  -5.499  46.821  0.61  6.43           O 0
+TER
+END

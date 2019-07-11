@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0990
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8836
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5917
+HEADER 5  - Mean B-factor of pocket residues  : 0.7795
+HEADER 6  - Hydrophobicity Score              : -23.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.7501
+HEADER 10  -Pocket volume (convex hull)       : 1.4199
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   1377  NH2 ARG A 477      76.595  36.199  95.837  0.00  0.00           N 0
+ATOM   1307    O GLU A 470      77.724  29.131  97.147  0.68  5.36           O 0
+ATOM   1375   CZ ARG A 477      77.759  36.349  96.474  0.00  0.00           C 0
+ATOM   1376  NH1 ARG A 477      77.799  36.945  97.675  0.74  7.66           N 0
+ATOM   1343   CB HIS A 474      80.608  30.647  98.901  0.00  0.00           C 0
+ATOM   1335   CB ASP A 473      78.188  31.742  94.345  0.00  0.00           C 0
+ATOM   1338  OD2 ASP A 473      76.021  31.036  93.651  0.75  9.64           O 0
+ATOM   1309   CG GLU A 470      73.173  28.757  96.645  0.00  0.00           C 0
+ATOM   1308   CB GLU A 470      74.574  28.528  97.171  0.00  0.00           C 0
+ATOM   1312  OE2 GLU A 470      71.418  29.914  97.776  0.00  0.00           O 0
+ATOM   1374   NE ARG A 477      78.886  35.889  95.937  0.71  1.09           N 0
+ATOM   1340   CA HIS A 474      80.986  31.460  97.662  0.00  0.00           C 0
+ATOM   1373   CD ARG A 477      80.179  36.000  96.599  0.00  0.00           C 0
+ATOM   1345  ND1 HIS A 474      81.294  32.277 100.705  0.74  7.66           N 0
+ATOM   1339    N HIS A 474      80.219  31.037  96.508  0.66  1.09           N 0
+TER
+END

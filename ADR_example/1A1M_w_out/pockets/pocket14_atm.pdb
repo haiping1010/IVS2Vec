@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0200
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8938
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5968
+HEADER 5  - Mean B-factor of pocket residues  : 0.6735
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.1252
+HEADER 10  -Pocket volume (convex hull)       : 1.2072
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1390   CD ARG A 170      19.666  25.175  14.093  0.00  0.00           C 0
+ATOM   1345    O GLU A 166      17.690  20.745  16.395  0.00  0.00           O 0
+ATOM   1349  OE1 GLU A 166      14.461  19.252  11.673  0.00  0.00           O 0
+ATOM   1388   CB ARG A 170      19.950  23.384  15.780  0.00  0.00           C 0
+ATOM   1346   CB GLU A 166      15.069  19.597  14.492  0.00  0.00           C 0
+ATOM   1360  CE2 TRP A 167      14.627  25.415  13.503  0.00  0.00           C 0
+ATOM   1362  CZ2 TRP A 167      14.991  26.240  12.431  0.00  0.00           C 0
+ATOM   1393  NH1 ARG A 170      19.505  26.093  11.423  0.00  0.00           N 0
+ATOM   1344    C GLU A 166      16.476  20.693  16.252  0.00  0.00           C 0
+ATOM   1351    N TRP A 167      15.674  21.719  16.553  0.00  0.00           N 0
+ATOM   1358  CD2 TRP A 167      15.277  25.474  14.759  0.00  0.00           C 0
+ATOM   1352   CA TRP A 167      16.186  23.037  16.946  0.00  0.00           C 0
+ATOM   1359  NE1 TRP A 167      13.657  24.449  13.591  0.45  2.19           N 0
+TER
+END

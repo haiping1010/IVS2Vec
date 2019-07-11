@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.1545
+HEADER 1  - Drug Score                        : 0.0104
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1706
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5446
+HEADER 5  - Mean B-factor of pocket residues  : 0.5105
+HEADER 6  - Hydrophobicity Score              : 14.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.5064
+HEADER 10  -Pocket volume (convex hull)       : 7.4675
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   4010   CD GLN A 599      -5.354  -2.317  11.291  0.00  0.00           C 0
+ATOM   4559    O TYR A 763      -6.063  -6.608   9.263  0.00  0.00           O 0
+ATOM   4012  NE2 GLN A 599      -4.786  -3.403  10.785  0.53  2.19           N 0
+ATOM   4572   CB GLU A 764      -8.072  -5.887  12.163  0.00  0.00           C 0
+ATOM   4044   CG LYS A 603      -9.760  -0.195   5.553  0.00  0.00           C 0
+ATOM   4045   CD LYS A 603     -11.158  -0.091   6.071  0.00  0.00           C 0
+ATOM   4046   CE LYS A 603     -11.178   0.570   7.422  0.00  0.00           C 0
+ATOM   4009   CG GLN A 599      -5.355  -1.093  10.425  0.00  0.00           C 0
+ATOM   4007    O GLN A 599      -5.616   1.010   8.023  0.54  3.21           O 0
+ATOM   4011  OE1 GLN A 599      -5.872  -2.300  12.403  0.00  0.00           O 0
+ATOM   4017   CB GLN A 600      -7.131   3.971  10.470  0.00  0.00           C 0
+ATOM   3988  CD1 ILE A 596      -5.778   1.033  15.026  0.00  0.00           C 0
+ATOM   4014   CA GLN A 600      -6.619   3.164   9.295  0.00  0.00           C 0
+TER
+END

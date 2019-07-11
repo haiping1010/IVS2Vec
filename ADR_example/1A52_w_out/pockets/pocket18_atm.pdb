@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0614
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9005
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6206
+HEADER 5  - Mean B-factor of pocket residues  : 0.8685
+HEADER 6  - Hydrophobicity Score              : 23.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.3974
+HEADER 10  -Pocket volume (convex hull)       : 3.8500
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM   2452    C HIS B 373     111.783  23.164  69.537  0.00  0.00           C 0
+ATOM   2453    O HIS B 373     111.065  22.411  70.190  0.56  4.29           O 0
+ATOM   2454   CB HIS B 373     114.029  22.144  68.912  0.00  0.00           C 0
+ATOM   2466  OD1 ASP B 374     113.783  26.047  71.125  0.73  7.50           O 0
+ATOM   2467  OD2 ASP B 374     112.991  27.408  72.631  0.72  3.21           O 0
+ATOM   3165    N LEU B 462     114.729  23.630  78.410  0.47  6.56           N 0
+ATOM   3161  CD2 PHE B 461     112.145  27.239  76.077  0.00  0.00           C 0
+ATOM   3159   CG PHE B 461     111.581  26.246  76.877  0.00  0.00           C 0
+ATOM   2465   CG ASP B 374     112.842  26.683  71.631  0.00  0.00           C 0
+ATOM   2491  CD2 HIS B 377     109.233  22.654  75.573  0.00  0.00           C 0
+ATOM   2488   CB HIS B 377     109.288  22.033  73.050  0.00  0.00           C 0
+ATOM   3214   OG SER B 468     116.482  27.615  76.820  0.64  4.29           O 0
+ATOM   3160  CD1 PHE B 461     110.342  25.726  76.523  0.00  0.00           C 0
+ATOM   3162  CE1 PHE B 461     109.667  26.194  75.388  0.00  0.00           C 0
+ATOM   2461   CA ASP B 374     110.998  25.138  70.757  0.00  0.00           C 0
+ATOM   3155   CA PHE B 461     112.357  24.318  78.390  0.00  0.00           C 0
+ATOM   3150    O THR B 460     110.873  21.859  78.455  0.70  7.50           O 0
+ATOM   2489   CG HIS B 377     109.141  21.804  74.523  0.00  0.00           C 0
+TER
+END

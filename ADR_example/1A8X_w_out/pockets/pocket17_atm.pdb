@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0811
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1885
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5949
+HEADER 5  - Mean B-factor of pocket residues  : 0.2432
+HEADER 6  - Hydrophobicity Score              : 49.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.5246
+HEADER 10  -Pocket volume (convex hull)       : 3.8858
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1088  CG2 ILE A 343       1.953   9.706  22.460  0.00  0.00           C 0
+ATOM    588    O ALA A  79       5.912   5.424  26.527  0.00  0.00           O 0
+ATOM   1093    O THR A 344       0.939  11.843  24.113  0.00  0.00           O 0
+ATOM    591   CA THR A  80       3.271   4.735  26.182  0.00  0.00           C 0
+ATOM    596  CG2 THR A  80       0.992   5.552  25.741  0.00  0.00           C 0
+ATOM    593    O THR A  80       2.558   4.880  28.433  0.41  2.14           O 0
+ATOM    584   CB ALA A  78       6.912   6.464  21.744  0.00  0.00           C 0
+ATOM   1086   CB ILE A 343       3.317   9.818  21.759  0.00  0.00           C 0
+ATOM    197  CD2 LEU A  25       8.538   7.521  26.796  0.00  0.00           C 0
+ATOM   1085    O ILE A 343       3.681  12.464  22.928  0.00  0.00           O 0
+ATOM   1089  CD1 ILE A 343       5.086   8.502  20.439  0.00  0.00           C 0
+ATOM   1082    N ILE A 343       4.599  11.463  20.420  0.33  3.28           N 0
+ATOM   1075    O ALA A 341       7.214  10.079  18.778  0.00  0.00           O 0
+ATOM    595  OG1 THR A  80       2.537   5.125  23.935  0.65  1.07           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.1068
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6456
+HEADER 5  - Mean B-factor of pocket residues  : 0.2968
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.7592
+HEADER 10  -Pocket volume (convex hull)       : 8.4843
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM   3784  CD2 LEU J 304      33.008  35.655  83.952  0.00  0.00           C 0
+ATOM   3774   CD GLU J 303      37.891  40.831  85.209  0.00  0.00           C 0
+ATOM   3776  OE2 GLU J 303      37.882  41.662  84.259  0.55  7.50           O 0
+ATOM   3775  OE1 GLU J 303      37.364  41.068  86.326  0.00  0.00           O 0
+ATOM   3336   CE LYS F 176      31.798  35.576  78.031  0.00  0.00           C 0
+ATOM   3365  NE2 GLN F 180      28.101  34.863  80.816  0.77  2.19           N 0
+ATOM   3337   NZ LYS F 176      32.009  36.924  77.478  0.00  0.00           N 0
+ATOM   3772   CB GLU J 303      37.614  38.304  85.102  0.00  0.00           C 0
+ATOM   3748    O GLN J 300      36.693  35.941  82.205  0.00  0.00           O 0
+ATOM   3746   CA GLN J 300      37.351  37.495  80.520  0.00  0.00           C 0
+ATOM   3750   CG GLN J 300      36.036  38.950  78.872  0.00  0.00           C 0
+ATOM   3801  OG1 THR J 307      34.233  36.559  89.007  0.63  6.43           O 0
+ATOM   3749   CB GLN J 300      36.268  37.577  79.460  0.00  0.00           C 0
+ATOM   3782   CG LEU J 304      34.145  35.099  83.134  0.00  0.00           C 0
+ATOM   3753  NE2 GLN J 300      34.011  39.923  77.956  0.68  7.66           N 0
+ATOM   3751   CD GLN J 300      34.886  38.925  77.878  0.00  0.00           C 0
+ATOM   3783  CD1 LEU J 304      33.667  34.589  81.799  0.00  0.00           C 0
+TER
+END

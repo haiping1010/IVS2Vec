@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.3924
+HEADER 1  - Drug Score                        : 0.0295
+HEADER 2  - Number of alpha spheres           :    49
+HEADER 3  - Mean alpha-sphere radius          : 3.8085
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5735
+HEADER 5  - Mean B-factor of pocket residues  : 0.3601
+HEADER 6  - Hydrophobicity Score              : 18.3636
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 547.3824
+HEADER 10  -Pocket volume (convex hull)       : 135.7718
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.4211
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.3878
+ATOM     31    O GLU A  23       1.028  -3.263   4.800  0.00  0.00           O 0
+ATOM     75   CE LYS A  27       3.939  -2.782   1.096  0.00  0.00           C 0
+ATOM     32   CB GLU A  23      -0.225  -0.190   4.885  0.00  0.00           C 0
+ATOM      8  CD2 LEU A  19       2.866   0.855   3.249  0.00  0.00           C 0
+ATOM     64  OD1AASP A  26      -1.681  -6.359   1.808  0.00  0.00           O 0
+ATOM     29   CA GLU A  23      -0.596  -1.577   5.466  0.00  0.00           C 0
+ATOM     60   CBAASP A  26      -1.654  -5.768   4.118  0.00  0.00           C 0
+ATOM     25    O SER A  22      -1.726  -3.637   6.894  0.60  5.36           O 0
+ATOM     66  OD2AASP A  26      -3.556  -6.465   2.878  0.32  4.29           O 0
+ATOM   1232   CB LEU A 181      -5.814  -8.413   8.452  0.00  0.00           C 0
+ATOM   1230    C LEU A 181      -7.831  -7.191   7.674  0.00  0.00           C 0
+ATOM     68    N LYS A  27       1.416  -6.013   3.721  0.00  0.00           N 0
+ATOM     72   CB LYS A  27       3.419  -4.953   2.883  0.00  0.00           C 0
+ATOM     69   CA LYS A  27       2.602  -6.260   2.924  0.00  0.00           C 0
+ATOM     33   CG GLU A  23      -1.409   0.527   4.291  0.00  0.00           C 0
+ATOM    106   CZAARG A  30      -2.136  -7.880  -1.736  0.00  0.00           C 0
+ATOM    104   NEAARG A  30      -1.436  -7.818  -0.592  0.00  0.00           N 0
+ATOM    110  NH2AARG A  30      -3.392  -7.493  -1.731  0.00  0.00           N 0
+ATOM    102   CDAARG A  30      -0.042  -8.277  -0.631  0.00  0.00           C 0
+ATOM     73   CG LYS A  27       4.694  -4.985   2.068  0.00  0.00           C 0
+ATOM     98   CBAARG A  30       1.721  -9.732   0.333  0.00  0.00           C 0
+ATOM     26   CB SER A  22      -3.839  -1.633   8.484  0.00  0.00           C 0
+ATOM     62   CGAASP A  26      -2.318  -6.255   2.859  0.00  0.00           C 0
+ATOM     23   CA SER A  22      -2.413  -2.176   8.734  0.00  0.00           C 0
+ATOM     55  CD1 ILE A  25      -0.588  -5.588  11.671  0.00  0.00           C 0
+ATOM     54  CG2 ILE A  25      -0.843  -7.442   9.303  0.00  0.00           C 0
+ATOM     52   CB ILE A  25      -0.175  -6.067   9.192  0.00  0.00           C 0
+ATOM    827   CD LYS A 129      -4.344  -5.087  13.348  0.00  0.00           C 0
+ATOM   1235  CD2 LEU A 181      -5.215  -8.453  10.858  0.00  0.00           C 0
+ATOM     27   OG SER A  22      -4.674  -2.009   9.592  0.38  4.29           O 0
+ATOM    829   NZ LYS A 129      -5.852  -3.558  12.115  0.00  0.00           N 0
+ATOM   1231    O LEU A 181      -8.045  -6.035   8.151  0.51  4.29           O 0
+ATOM   1239    O ARG A 182     -10.603  -4.883   5.770  0.00  0.00           O 0
+ATOM   1259    O MET A 184      -9.390  -3.039  10.631  0.00  0.00           O 0
+ATOM   1237   CA ARG A 182      -8.921  -6.570   5.588  0.00  0.00           C 0
+ATOM     28    N GLU A  23      -1.276  -1.442   6.749  0.00  0.00           N 0
+ATOM     24    C SER A  22      -1.751  -2.500   7.422  0.00  0.00           C 0
+ATOM   1236    N ARG A 182      -8.264  -7.551   6.456  0.78  1.09           N 0
+TER
+END

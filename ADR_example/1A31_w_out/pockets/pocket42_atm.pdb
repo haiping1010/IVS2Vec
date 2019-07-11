@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.2316
+HEADER 1  - Drug Score                        : 0.0056
+HEADER 2  - Number of alpha spheres           :    54
+HEADER 3  - Mean alpha-sphere radius          : 4.0553
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5615
+HEADER 5  - Mean B-factor of pocket residues  : 0.6285
+HEADER 6  - Hydrophobicity Score              : 9.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 773.3356
+HEADER 10  -Pocket volume (convex hull)       : 180.6656
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.3519
+ATOM    313  C3' DA  C  16      30.972  -2.826   1.428  0.00  0.00           C 0
+ATOM    309  O5' DA  C  16      32.652  -0.965   2.676  0.00  0.00           O 0
+ATOM    310  C5' DA  C  16      31.792  -1.681   3.535  0.00  0.00           C 0
+ATOM   1862  ND2 ASN A 331      34.645  -7.804   3.022  0.00  0.00           N 0
+ATOM    307  OP1 DA  C  16      34.692  -0.934   4.083  0.00  0.00           O 0
+ATOM    328  OP1 DA  C  17      31.273  -6.295   0.545  0.00  0.00           O 0
+ATOM    329  OP2 DA  C  17      31.089  -4.257  -1.055  0.00  0.00           O 0
+ATOM   1830  CG2 ILE A 327      38.488  -7.772   1.247  0.00  0.00           C 0
+ATOM   1805    O LYS A 324      36.707  -8.418  -3.610  0.00  0.00           O 0
+ATOM   1838   CD LYS A 328      32.219 -10.494  -3.554  0.00  0.00           C 0
+ATOM   1815   CB LEU A 325      36.514 -11.385  -6.668  0.00  0.00           C 0
+ATOM   1812   CA LEU A 325      36.578 -10.539  -5.390  0.00  0.00           C 0
+ATOM   1817  CD1 LEU A 325      34.462 -12.614  -5.910  0.00  0.00           C 0
+ATOM   1839   CE LYS A 328      30.987 -11.377  -3.568  0.00  0.00           C 0
+ATOM   1837   CG LYS A 328      32.792 -10.490  -2.180  0.00  0.00           C 0
+ATOM    330  O5' DA  C  17      29.039  -5.412  -0.278  0.61  3.21           O 0
+ATOM    334  C3' DA  C  17      27.073  -5.468  -2.290  0.00  0.00           C 0
+ATOM    336  C2' DA  C  17      27.083  -4.333  -3.301  0.00  0.00           C 0
+ATOM   1840   NZ LYS A 328      30.139 -11.154  -4.771  0.00  0.00           N 0
+ATOM    335  O3' DA  C  17      26.009  -6.399  -2.481  0.00  0.00           O 0
+ATOM   1808   CD LYS A 324      35.919  -3.874  -6.945  0.00  0.00           C 0
+ATOM   1748    O ARG A 316      38.744  -0.075  -4.105  0.58  6.43           O 0
+ATOM   1807   CG LYS A 324      37.081  -4.674  -6.353  0.00  0.00           C 0
+ATOM    315  C2' DA  C  16      30.399  -1.871   0.386  0.00  0.00           C 0
+ATOM    308  OP2 DA  C  16      34.294   0.905   2.311  0.00  9.64           O 0
+ATOM   1832    N LYS A 328      36.312  -9.958  -1.055  0.64  1.09           N 0
+ATOM   1828   CB ILE A 327      38.869  -8.269  -0.139  0.00  0.00           C 0
+ATOM   1833   CA LYS A 328      34.898 -10.236  -0.901  0.00  0.00           C 0
+ATOM   1836   CB LYS A 328      34.171  -9.984  -2.203  0.00  0.00           C 0
+ATOM   1811    N LEU A 325      37.121  -9.210  -5.679  0.70  1.09           N 0
+ATOM   1806   CB LYS A 324      36.669  -6.113  -6.059  0.00  0.00           C 0
+ATOM   1804    C LYS A 324      37.089  -8.234  -4.774  0.00  0.00           C 0
+ATOM   1803   CA LYS A 324      37.666  -6.878  -5.198  0.00  0.00           C 0
+ATOM   1809   CE LYS A 324      35.253  -4.623  -8.117  0.00  0.00           C 0
+ATOM   1778    O LYS A 321      37.811  -8.812  -8.418  0.74  2.14           O 0
+ATOM   1810   NZ LYS A 324      34.270  -3.803  -8.918  0.00  0.00           N 0
+ATOM    339   C8 DA  C  17      27.931  -1.468  -2.827  0.00  0.00           C 0
+ATOM    340   N7 DA  C  17      28.073  -0.186  -3.055  0.00  0.00           N 0
+TER
+END

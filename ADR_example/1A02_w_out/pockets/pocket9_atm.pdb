@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0589
+HEADER 1  - Drug Score                        : 0.0463
+HEADER 2  - Number of alpha spheres           :    38
+HEADER 3  - Mean alpha-sphere radius          : 3.9795
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5645
+HEADER 5  - Mean B-factor of pocket residues  : 0.4424
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 375.5544
+HEADER 10  -Pocket volume (convex hull)       : 36.6037
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.9412
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.4474
+ATOM   3087   CB ARG F 146      57.665  26.507  40.194  0.00  0.00           C 0
+ATOM   3088   CG ARG F 146      58.363  25.179  39.974  0.00  0.00           C 0
+ATOM   3089   CD ARG F 146      59.841  25.315  40.185  0.00  0.00           C 0
+ATOM    471  OP1 DT  B5004      62.183  26.421  43.783  0.00  0.00           O 0
+ATOM   3117   SD MET F 149      54.968  22.896  43.831  0.00  0.00           S 0
+ATOM   3086    O ARG F 146      55.400  27.683  42.188  0.65  4.29           O 0
+ATOM    492  OP2 DA  B5005      57.172  29.570  47.904  0.58  3.21           O 0
+ATOM    479  C2' DT  B5004      59.391  30.368  46.166  0.00  0.00           C 0
+ATOM   3123   CB ALA F 150      55.387  30.179  44.982  0.00  0.00           C 0
+ATOM    473  O5' DT  B5004      61.300  28.586  44.692  0.00  0.00           O 0
+ATOM    472  OP2 DT  B5004      61.230  28.242  42.216  0.71  2.14           O 0
+ATOM   3119    N ALA F 150      53.915  28.226  44.719  0.00  0.00           N 0
+ATOM   3090   NE ARG F 146      60.524  24.037  40.006  0.00  0.00           N 0
+ATOM   3115   CB MET F 149      53.852  25.346  44.050  0.00  0.00           C 0
+ATOM   3140   CD LYS F 153      55.010  27.207  50.527  0.00  0.00           C 0
+ATOM   3118   CE MET F 149      54.025  21.570  44.686  0.00  0.00           C 0
+ATOM   3120   CA ALA F 150      54.273  29.320  45.609  0.00  0.00           C 0
+ATOM    477  C3' DT  B5004      59.857  29.359  47.200  0.00  0.00           C 0
+ATOM    474  C5' DT  B5004      61.828  28.319  45.998  0.00  0.00           C 0
+ATOM   3112   CA MET F 149      52.644  26.272  44.036  0.00  0.00           C 0
+ATOM   3116   CG MET F 149      53.669  24.048  43.334  0.00  0.00           C 0
+ATOM   3133   CB ALA F 152      49.076  26.630  45.917  0.00  0.00           C 0
+ATOM   3113    C MET F 149      52.933  27.395  45.023  0.00  0.00           C 0
+ATOM   3114    O MET F 149      52.280  27.505  46.047  0.00  0.00           O 0
+ATOM   3134    N LYS F 153      50.677  27.750  48.147  0.00  0.00           N 0
+ATOM   3138   CB LYS F 153      52.812  27.525  49.308  0.00  0.00           C 0
+TER
+END
